@@ -1,0 +1,2888 @@
+[
+  {
+    "n": 1,
+    "date": "Di, 25.08.2026",
+    "ab": 1,
+    "title": "Willkommen im WPU ITG – Kursregeln & Portfolio",
+    "module": "M1 · Start & Arbeitsplatz",
+    "goal": "Ich kenne die Kursregeln, die Sicherheitsregeln im Rechnerraum und lege mein ITG-Portfolio an.",
+    "competencies": "Reflektieren, Kommunizieren",
+    "material": "AB-01; Rechnerraum, Kursordner (analog + digital)",
+    "know": "Im WPU ITG lernst du, den Computer sicher und sinnvoll zu nutzen. Damit alle gut arbeiten können, gelten Regeln für Verhalten, Sicherheit und den Umgang mit Geräten. Dein Portfolio sammelt alle Arbeitsblätter zu einem Skript.",
+    "basis": [
+      "Lies die Kursregeln und unterstreiche die drei aus deiner Sicht wichtigsten.",
+      "Notiere zwei Sicherheitsregeln für den Rechnerraum (z. B. Essen/Trinken, Kabel).",
+      "Gestalte das Deckblatt deines ITG-Portfolios mit Name, Klasse und Kurs."
+    ],
+    "extension": [
+      "Formuliere eine eigene Kursregel und begründe sie in 2–3 Sätzen.",
+      "Erstelle eine Checkliste 'Ordentlicher Arbeitsplatz' mit 5 Punkten."
+    ],
+    "keywords": [
+      "Portfolio",
+      "Kursregel",
+      "Rechnerraum",
+      "Sicherheit"
+    ],
+    "id": "ITG-01",
+    "moduleNo": 1,
+    "moduleTitle": "Start & Arbeitsplatz",
+    "icon": "🖥️",
+    "worksheet": "assets/arbeitsblaetter/AB-01_Willkommen_im_WPU_ITG_Kursregeln_Portfol.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/computerbasics/",
+      "label": "Computer Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Z6nqZaZhPeU",
+      "label": "EVA-Prinzip – einfach erklärt"
+    }
+  },
+  {
+    "n": 2,
+    "date": "Do, 27.08.2026",
+    "ab": 2,
+    "title": "Der Computerarbeitsplatz – Hardware verstehen",
+    "module": "M1 · Start & Arbeitsplatz",
+    "goal": "Ich benenne die wichtigsten Hardware-Teile und ordne sie Eingabe, Verarbeitung, Ausgabe zu.",
+    "competencies": "Analysieren, Reflektieren",
+    "material": "AB-02; Rechner am Platz, ggf. geöffnetes Anschauungsgerät",
+    "know": "Ein Computer besteht aus Eingabe-, Verarbeitungs- und Ausgabegeräten (EVA-Prinzip). Zur Verarbeitung gehören Prozessor (CPU) und Arbeitsspeicher (RAM), zum Speichern Festplatte/SSD.",
+    "basis": [
+      "Beschrifte in der Abbildung Monitor, Tastatur, Maus, Gehäuse, Drucker.",
+      "Ordne 6 Geräte in die Tabelle Eingabe / Verarbeitung / Ausgabe ein.",
+      "Erkläre in einem Satz, was der Arbeitsspeicher (RAM) macht."
+    ],
+    "extension": [
+      "Recherchiere zwei technische Daten deines Rechners (CPU, RAM) und notiere sie.",
+      "Vergleiche SSD und Festplatte in einer kleinen Pro/Contra-Liste."
+    ],
+    "keywords": [
+      "Hardware",
+      "EVA-Prinzip",
+      "Prozessor (CPU)",
+      "Arbeitsspeicher (RAM)"
+    ],
+    "id": "ITG-02",
+    "moduleNo": 1,
+    "moduleTitle": "Start & Arbeitsplatz",
+    "icon": "🖥️",
+    "worksheet": "assets/arbeitsblaetter/AB-02_Der_Computerarbeitsplatz_Hardware_verste.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/computerbasics/",
+      "label": "Computer Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Z6nqZaZhPeU",
+      "label": "EVA-Prinzip – einfach erklärt"
+    }
+  },
+  {
+    "n": 3,
+    "date": "Di, 01.09.2026",
+    "ab": 3,
+    "title": "Anmelden, Passwort & Benutzerkonto",
+    "module": "M1 · Start & Arbeitsplatz",
+    "goal": "Ich melde mich sicher an und erstelle ein starkes, merkbares Passwort.",
+    "competencies": "Reflektieren, Produzieren",
+    "material": "AB-03; Schul-Login, Passwortkarte",
+    "know": "Ein Benutzerkonto schützt deine Daten. Ein starkes Passwort ist lang, enthält verschiedene Zeichen und ist kein echtes Wort. Passwörter gibt man niemals weiter.",
+    "basis": [
+      "Melde dich mit deinen Zugangsdaten an und wieder ab.",
+      "Erfinde ein starkes Passwort nach der Merksatz-Methode (Anfangsbuchstaben eines Satzes).",
+      "Kreuze in der Liste an, welche Passwörter sicher sind und welche nicht."
+    ],
+    "extension": [
+      "Erkläre, warum man für verschiedene Dienste verschiedene Passwörter nutzt.",
+      "Recherchiere, was ein Passwort-Manager ist (2 Sätze)."
+    ],
+    "keywords": [
+      "Benutzerkonto",
+      "Passwort",
+      "anmelden/abmelden",
+      "sicher"
+    ],
+    "id": "ITG-03",
+    "moduleNo": 1,
+    "moduleTitle": "Start & Arbeitsplatz",
+    "icon": "🖥️",
+    "worksheet": "assets/arbeitsblaetter/AB-03_Anmelden_Passwort_Benutzerkonto.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/computerbasics/",
+      "label": "Computer Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Z6nqZaZhPeU",
+      "label": "EVA-Prinzip – einfach erklärt"
+    }
+  },
+  {
+    "n": 4,
+    "date": "Do, 03.09.2026",
+    "ab": 4,
+    "title": "Tastatur & Zehnfingersystem – Grundlagen",
+    "module": "M1 · Start & Arbeitsplatz",
+    "goal": "Ich kenne die Tastenbereiche und übe die Grundstellung des Zehnfingersystems.",
+    "competencies": "Produzieren",
+    "material": "AB-04; Online-Tipptrainer, Rechner",
+    "know": "Die Tastatur hat feste Bereiche: Buchstaben, Ziffern, Sondertasten. Beim Zehnfingersystem liegen die Finger auf der Grundreihe (asdf – jklö). Schnelles, blindes Tippen spart später viel Zeit.",
+    "basis": [
+      "Beschrifte die Tastenbereiche in der Abbildung.",
+      "Lege die Finger auf die Grundstellung und übe die Grundreihe 5 Minuten.",
+      "Notiere deine Zeichen-pro-Minute aus dem Tipptrainer."
+    ],
+    "extension": [
+      "Übe eine Übung mit Groß-/Kleinschreibung und notiere deine Fehlerquote.",
+      "Setze dir ein realistisches Tipp-Ziel für dieses Halbjahr."
+    ],
+    "keywords": [
+      "Grundstellung",
+      "Zehnfingersystem",
+      "Grundreihe",
+      "Umschalttaste"
+    ],
+    "id": "ITG-04",
+    "moduleNo": 1,
+    "moduleTitle": "Start & Arbeitsplatz",
+    "icon": "🖥️",
+    "worksheet": "assets/arbeitsblaetter/AB-04_Tastatur_Zehnfingersystem_Grundlagen.pdf",
+    "external": {
+      "url": "https://www.typingclub.com/",
+      "label": "TypingClub – Tastaturtraining"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Z6nqZaZhPeU",
+      "label": "EVA-Prinzip – einfach erklärt"
+    }
+  },
+  {
+    "n": 5,
+    "date": "Di, 08.09.2026",
+    "ab": 5,
+    "title": "Bildschirm, Fenster & Ergonomie",
+    "module": "M1 · Start & Arbeitsplatz",
+    "goal": "Ich bediene Fenster sicher und richte meinen Arbeitsplatz ergonomisch ein.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-05; Betriebssystem, Rechner",
+    "know": "Programme laufen in Fenstern, die man verschieben, verkleinern und schließen kann. Ergonomie bedeutet, Sitzhaltung, Bildschirm und Licht so einzurichten, dass Arbeiten gesund bleibt.",
+    "basis": [
+      "Öffne zwei Fenster und ordne sie nebeneinander an.",
+      "Übe Minimieren, Maximieren, Schließen an einem Fenster.",
+      "Kreuze in der Ergonomie-Checkliste an, was an deinem Platz stimmt."
+    ],
+    "extension": [
+      "Beschreibe drei Folgen von schlechter Sitzhaltung.",
+      "Erstelle einen kurzen Tipp-Aushang 'Gesund am PC'."
+    ],
+    "keywords": [
+      "Fenster",
+      "Ergonomie",
+      "Sitzhaltung",
+      "Taskleiste"
+    ],
+    "id": "ITG-05",
+    "moduleNo": 1,
+    "moduleTitle": "Start & Arbeitsplatz",
+    "icon": "🖥️",
+    "worksheet": "assets/arbeitsblaetter/AB-05_Bildschirm_Fenster_Ergonomie.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/computerbasics/",
+      "label": "Computer Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Z6nqZaZhPeU",
+      "label": "EVA-Prinzip – einfach erklärt"
+    }
+  },
+  {
+    "n": 6,
+    "date": "Do, 10.09.2026",
+    "ab": 6,
+    "title": "Dateien & Ordner – das Ablagesystem",
+    "module": "M2 · Betriebssystem, Dateien & Ordnung",
+    "goal": "Ich erkläre den Unterschied von Datei und Ordner und lege eine sinnvolle Ordnerstruktur an.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-06; Datei-Explorer, Rechner",
+    "know": "Eine Datei enthält Inhalte (Text, Bild …), ein Ordner sammelt Dateien. Eine klare Ordnerstruktur (wie ein Regal) hilft, alles schnell wiederzufinden.",
+    "basis": [
+      "Lege einen Ordner 'ITG' mit Unterordnern für jedes Modul an.",
+      "Erstelle eine Textdatei und speichere sie im richtigen Ordner.",
+      "Male die vorgegebene Ordnerstruktur als Baum ab."
+    ],
+    "extension": [
+      "Plane eine Ordnerstruktur für ein Schulprojekt deiner Wahl.",
+      "Erkläre, warum eine gute Struktur bei vielen Dateien wichtig ist."
+    ],
+    "keywords": [
+      "Datei",
+      "Ordner",
+      "Ordnerstruktur",
+      "speichern"
+    ],
+    "id": "ITG-06",
+    "moduleNo": 2,
+    "moduleTitle": "Dateien & Ordnung",
+    "icon": "📁",
+    "worksheet": "assets/arbeitsblaetter/AB-06_Dateien_Ordner_das_Ablagesystem.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/windowsbasics/",
+      "label": "Windows Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Dateien+%26+Ordner+%E2%80%93+das+Ablagesystem+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 7,
+    "date": "Di, 15.09.2026",
+    "ab": 7,
+    "title": "Dateinamen, Dateitypen & Endungen",
+    "module": "M2 · Betriebssystem, Dateien & Ordnung",
+    "goal": "Ich erkenne Dateitypen an ihrer Endung und vergebe gute Dateinamen.",
+    "competencies": "Analysieren, Produzieren",
+    "material": "AB-07; Datei-Explorer",
+    "know": "Die Endung (z. B. .txt, .jpg, .mp3, .pdf) zeigt den Dateityp und welches Programm die Datei öffnet. Gute Dateinamen sind eindeutig, ohne Sonderzeichen, oft mit Datum.",
+    "basis": [
+      "Ordne 8 Endungen den Kategorien Text/Bild/Ton/Video zu.",
+      "Benenne drei schlecht benannte Dateien sinnvoll um.",
+      "Notiere die Endung deiner heute erstellten Datei."
+    ],
+    "extension": [
+      "Erkläre, warum man die Endung nicht einfach umbenennen sollte.",
+      "Recherchiere zwei dir unbekannte Dateiendungen."
+    ],
+    "keywords": [
+      "Dateiendung",
+      "Dateityp",
+      "umbenennen",
+      "Format"
+    ],
+    "id": "ITG-07",
+    "moduleNo": 2,
+    "moduleTitle": "Dateien & Ordnung",
+    "icon": "📁",
+    "worksheet": "assets/arbeitsblaetter/AB-07_Dateinamen_Dateitypen_Endungen.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/windowsbasics/",
+      "label": "Windows Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Dateinamen%2C+Dateitypen+%26+Endungen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 8,
+    "date": "Do, 17.09.2026",
+    "ab": 8,
+    "title": "Kopieren, Verschieben, Löschen & Papierkorb",
+    "module": "M2 · Betriebssystem, Dateien & Ordnung",
+    "goal": "Ich verwalte Dateien sicher: kopieren, verschieben, löschen und wiederherstellen.",
+    "competencies": "Produzieren",
+    "material": "AB-08; Datei-Explorer",
+    "know": "Kopieren erzeugt eine zweite Datei, Verschieben ändert nur den Ort. Gelöschte Dateien landen zuerst im Papierkorb und können von dort wiederhergestellt werden.",
+    "basis": [
+      "Kopiere eine Datei in einen anderen Ordner.",
+      "Verschiebe eine Datei und prüfe, dass das Original weg ist.",
+      "Lösche eine Testdatei und hole sie aus dem Papierkorb zurück."
+    ],
+    "extension": [
+      "Erkläre den Unterschied von Kopieren und Verschieben mit eigenen Worten.",
+      "Beschreibe, was beim endgültigen Löschen passiert."
+    ],
+    "keywords": [
+      "kopieren",
+      "verschieben",
+      "Papierkorb",
+      "wiederherstellen"
+    ],
+    "id": "ITG-08",
+    "moduleNo": 2,
+    "moduleTitle": "Dateien & Ordnung",
+    "icon": "📁",
+    "worksheet": "assets/arbeitsblaetter/AB-08_Kopieren_Verschieben_Loeschen_Papierkorb.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/windowsbasics/",
+      "label": "Windows Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Kopieren%2C+Verschieben%2C+L%C3%B6schen+%26+Papierkorb+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 9,
+    "date": "Di, 22.09.2026",
+    "ab": 9,
+    "title": "Speichern lokal & in der Cloud",
+    "module": "M2 · Betriebssystem, Dateien & Ordnung",
+    "goal": "Ich speichere Dateien bewusst lokal oder in der Cloud und kenne Vor- und Nachteile.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-09; Schul-Cloud/Netzlaufwerk",
+    "know": "Lokal bedeutet Speichern auf dem Gerät, Cloud bedeutet Speichern auf einem Server im Internet. Cloud erlaubt Zugriff von überall, braucht aber Internet und Vertrauen in den Anbieter.",
+    "basis": [
+      "Speichere dieselbe Datei lokal und in der Schul-Cloud.",
+      "Fülle die Tabelle Vorteile/Nachteile Cloud mit je 2 Punkten.",
+      "Notiere, wo deine ITG-Dateien liegen sollen."
+    ],
+    "extension": [
+      "Erkläre, warum eine Sicherungskopie (Backup) sinnvoll ist.",
+      "Beschreibe eine Situation, in der Cloud-Speicher problematisch ist."
+    ],
+    "keywords": [
+      "lokal",
+      "Cloud",
+      "Server",
+      "Backup"
+    ],
+    "id": "ITG-09",
+    "moduleNo": 2,
+    "moduleTitle": "Dateien & Ordnung",
+    "icon": "📁",
+    "worksheet": "assets/arbeitsblaetter/AB-09_Speichern_lokal_in_der_Cloud.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/windowsbasics/",
+      "label": "Windows Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Speichern+lokal+%26+in+der+Cloud+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 10,
+    "date": "Do, 24.09.2026",
+    "ab": 10,
+    "title": "Komprimieren & ZIP-Archive",
+    "module": "M2 · Betriebssystem, Dateien & Ordnung",
+    "goal": "Ich packe mehrere Dateien in ein ZIP-Archiv und entpacke es wieder.",
+    "competencies": "Produzieren",
+    "material": "AB-10; Betriebssystem, Beispieldateien",
+    "know": "Ein ZIP-Archiv bündelt mehrere Dateien in einer und macht sie oft kleiner. Das ist praktisch zum Verschicken und Sichern.",
+    "basis": [
+      "Packe drei Dateien in ein ZIP-Archiv.",
+      "Entpacke ein bereitgestelltes ZIP und öffne den Inhalt.",
+      "Vergleiche die Größe vorher/nachher und notiere sie."
+    ],
+    "extension": [
+      "Erkläre, warum sich Textdateien stärker komprimieren als Fotos.",
+      "Beschreibe zwei Situationen, in denen ZIP nützlich ist."
+    ],
+    "keywords": [
+      "komprimieren",
+      "ZIP-Archiv",
+      "entpacken",
+      "Dateigröße"
+    ],
+    "id": "ITG-10",
+    "moduleNo": 2,
+    "moduleTitle": "Dateien & Ordnung",
+    "icon": "📁",
+    "worksheet": "assets/arbeitsblaetter/AB-10_Komprimieren_ZIP_Archive.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/windowsbasics/",
+      "label": "Windows Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Komprimieren+%26+ZIP-Archive+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 11,
+    "date": "Di, 29.09.2026",
+    "ab": 11,
+    "title": "Screenshots & Bildschirmaufnahmen",
+    "module": "M2 · Betriebssystem, Dateien & Ordnung",
+    "goal": "Ich erstelle Screenshots und füge sie in ein Dokument ein.",
+    "competencies": "Produzieren, Präsentieren",
+    "material": "AB-11; Betriebssystem, Textprogramm",
+    "know": "Ein Screenshot ist ein Foto des Bildschirms. Er hilft, Abläufe zu zeigen oder Fehler zu dokumentieren.",
+    "basis": [
+      "Erstelle einen Screenshot des Desktops.",
+      "Schneide den Screenshot auf einen Ausschnitt zu.",
+      "Füge den Screenshot in ein Textdokument ein."
+    ],
+    "extension": [
+      "Erstelle eine kleine Bild-Anleitung (3 Schritte) mit Screenshots.",
+      "Nenne eine Situation, in der ein Screenshot Datenschutzprobleme macht."
+    ],
+    "keywords": [
+      "Screenshot",
+      "Ausschnitt",
+      "einfügen",
+      "dokumentieren"
+    ],
+    "id": "ITG-11",
+    "moduleNo": 2,
+    "moduleTitle": "Dateien & Ordnung",
+    "icon": "📁",
+    "worksheet": "assets/arbeitsblaetter/AB-11_Screenshots_Bildschirmaufnahmen.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/windowsbasics/",
+      "label": "Windows Basics – interaktiver Kurs"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Screenshots+%26+Bildschirmaufnahmen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 12,
+    "date": "Do, 01.10.2026",
+    "ab": 12,
+    "title": "So funktioniert das Internet – Grundbegriffe",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich erkläre grob, wie Daten im Internet zwischen Geräten und Servern übertragen werden.",
+    "competencies": "Analysieren, Reflektieren",
+    "material": "AB-12; Rechner, Video/Infografik",
+    "know": "Das Internet verbindet viele Computer. Deine Anfrage geht an einen Server, der die Webseite zurückschickt. Geräte haben Adressen (IP), Namen werden über das DNS aufgelöst.",
+    "basis": [
+      "Beschrifte die Skizze Client – Internet – Server.",
+      "Bringe die Schritte 'Webseite aufrufen' in die richtige Reihenfolge.",
+      "Erkläre in einem Satz, was ein Server ist."
+    ],
+    "extension": [
+      "Recherchiere, was eine IP-Adresse ist (2 Sätze).",
+      "Erkläre kurz die Rolle des DNS mit einem Vergleich (Telefonbuch)."
+    ],
+    "keywords": [
+      "Internet",
+      "Server",
+      "Client",
+      "IP-Adresse"
+    ],
+    "id": "ITG-12",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-12_So_funktioniert_das_Internet_Grundbegrif.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/lm/so-funktioniert-das-internet-die-technik",
+      "label": "Internet-ABC: Technik des Internets"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 13,
+    "date": "Di, 06.10.2026",
+    "ab": 13,
+    "title": "Browser sicher bedienen",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich bediene den Browser mit Tabs, Lesezeichen und Verlauf und erkenne die Adresszeile.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-13; Browser",
+    "know": "Der Browser zeigt Webseiten an. In der Adresszeile steht die Adresse (URL); https und ein Schloss zeigen eine verschlüsselte Verbindung.",
+    "basis": [
+      "Öffne zwei Tabs und wechsle zwischen ihnen.",
+      "Setze ein Lesezeichen auf eine erlaubte Seite.",
+      "Finde in der Adresszeile das Schloss-Symbol und notiere, was es bedeutet."
+    ],
+    "extension": [
+      "Erkläre den Unterschied von http und https.",
+      "Beschreibe, wofür der private Modus gut ist – und wofür nicht."
+    ],
+    "keywords": [
+      "Browser",
+      "URL",
+      "Tab",
+      "https"
+    ],
+    "id": "ITG-13",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-13_Browser_sicher_bedienen.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/kinder/lernen-schule/lernmodule/",
+      "label": "Internet-ABC – interaktive Lernmodule"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 14,
+    "date": "Do, 08.10.2026",
+    "ab": 14,
+    "title": "Suchmaschinen clever nutzen",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich formuliere gute Suchanfragen und grenze Treffer sinnvoll ein.",
+    "competencies": "Informieren",
+    "material": "AB-14; Suchmaschine",
+    "know": "Suchmaschinen finden Webseiten zu Suchbegriffen. Kurze, treffende Begriffe und Zusätze (z. B. Anführungszeichen) verbessern die Ergebnisse.",
+    "basis": [
+      "Finde mit 3 Suchbegriffen eine Antwort auf eine vorgegebene Frage.",
+      "Verbessere zwei schlechte Suchanfragen.",
+      "Notiere die Quelle (URL), aus der deine Antwort stammt."
+    ],
+    "extension": [
+      "Nutze eine Phrasensuche mit Anführungszeichen und beschreibe den Effekt.",
+      "Vergleiche die ersten Treffer zweier Suchmaschinen."
+    ],
+    "keywords": [
+      "Suchmaschine",
+      "Suchbegriff",
+      "Treffer",
+      "Phrasensuche"
+    ],
+    "id": "ITG-14",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-14_Suchmaschinen_clever_nutzen.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/lm/suchen-und-finden",
+      "label": "Internet-ABC: Suchen & Finden"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 15,
+    "date": "Di, 13.10.2026",
+    "ab": 15,
+    "title": "Quellen bewerten – wahr oder falsch?",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich prüfe Webquellen auf Glaubwürdigkeit und erkenne unsichere Informationen.",
+    "competencies": "Informieren, Analysieren",
+    "material": "AB-15; Browser, Beispielseiten",
+    "know": "Nicht alles im Internet stimmt. Wichtig sind: Wer steht dahinter (Impressum)? Wann veröffentlicht? Gibt es Belege? Wird sachlich oder werbend geschrieben?",
+    "basis": [
+      "Prüfe eine Beispielseite anhand der 4 Kriterien der Checkliste.",
+      "Suche das Impressum einer Seite und notiere den Anbieter.",
+      "Entscheide bei drei Aussagen: glaubwürdig oder zweifelhaft?"
+    ],
+    "extension": [
+      "Vergleiche zwei Seiten zum selben Thema und begründe, welcher du eher glaubst.",
+      "Erkläre, was 'Fake News' sind und wie man sie erkennt."
+    ],
+    "keywords": [
+      "Quelle",
+      "Impressum",
+      "Glaubwürdigkeit",
+      "Beleg"
+    ],
+    "id": "ITG-15",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-15_Quellen_bewerten_wahr_oder_falsch.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/interaktive-medien",
+      "label": "klicksafe: Fake-News- und Safe-News-Quizze"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 16,
+    "date": "Do, 15.10.2026",
+    "ab": 16,
+    "title": "Wikipedia & Nachschlagewerke richtig nutzen",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich nutze Wikipedia als Einstieg und prüfe Angaben mit weiteren Quellen.",
+    "competencies": "Informieren, Reflektieren",
+    "material": "AB-16; Browser",
+    "know": "Wikipedia ist ein von vielen Menschen geschriebenes Lexikon. Es ist ein guter Einstieg, aber man sollte wichtige Angaben mit den angegebenen Quellen prüfen.",
+    "basis": [
+      "Finde zu einem Begriff die Einleitung und fasse sie in 2 Sätzen zusammen.",
+      "Öffne einen Quellen-Verweis am Ende des Artikels.",
+      "Notiere Autor/Anbieter der weiterführenden Quelle."
+    ],
+    "extension": [
+      "Prüfe eine Angabe aus dem Artikel mit einer zweiten Quelle.",
+      "Erkläre, warum man ganze Artikel nicht einfach kopieren sollte."
+    ],
+    "keywords": [
+      "Lexikon",
+      "Artikel",
+      "Quelle prüfen",
+      "zusammenfassen"
+    ],
+    "id": "ITG-16",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-16_Wikipedia_Nachschlagewerke_richtig_nutze.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/lm/suchen-und-finden",
+      "label": "Internet-ABC: Lexika, Wikis & Suchtricks"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 17,
+    "date": "Di, 03.11.2026",
+    "ab": 17,
+    "title": "Informationen sammeln & strukturieren",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich sammle Rechercheergebnisse geordnet und gebe Quellen an.",
+    "competencies": "Informieren, Produzieren",
+    "material": "AB-17; Browser, Textprogramm",
+    "know": "Recherche heißt: gezielt suchen, Wichtiges auswählen, in eigenen Worten notieren und die Quelle angeben. So entsteht eine saubere Materialsammlung.",
+    "basis": [
+      "Recherchiere 3 Fakten zu einem Thema und notiere sie stichwortartig.",
+      "Schreibe zu jedem Fakt die Quelle (URL) dazu.",
+      "Ordne deine Notizen unter zwei Überschriften."
+    ],
+    "extension": [
+      "Formuliere die Fakten in eigenen Worten (kein Kopieren).",
+      "Erstelle eine kurze Quellenliste im einheitlichen Format."
+    ],
+    "keywords": [
+      "recherchieren",
+      "Stichwort",
+      "Quellenangabe",
+      "strukturieren"
+    ],
+    "id": "ITG-17",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-17_Informationen_sammeln_strukturieren.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/kinder/lernen-schule/lernmodule/",
+      "label": "Internet-ABC – interaktive Lernmodule"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 18,
+    "date": "Do, 05.11.2026",
+    "ab": 18,
+    "title": "Recherche-Projekt: Steckbrief erstellen",
+    "module": "M3 · Internet, Recherche & Quellen",
+    "goal": "Ich erstelle aus recherchierten Informationen einen sauberen digitalen Steckbrief.",
+    "competencies": "Informieren, Produzieren, Präsentieren",
+    "material": "AB-18; Browser, Textprogramm",
+    "know": "In diesem Projekt wendest du Recherche, Quellenbewertung und Ordnung an: Du erstellst einen Steckbrief zu einem Thema mit geprüften Informationen und Quellenangabe.",
+    "basis": [
+      "Wähle ein Thema und sammle 5 geprüfte Informationen.",
+      "Übertrage sie in die Steckbrief-Vorlage.",
+      "Ergänze eine Quellenliste."
+    ],
+    "extension": [
+      "Füge ein rechtefreies Bild mit Quellenangabe hinzu.",
+      "Formuliere ein Fazit in zwei Sätzen."
+    ],
+    "keywords": [
+      "Steckbrief",
+      "Vorlage",
+      "geprüft",
+      "Fazit"
+    ],
+    "id": "ITG-18",
+    "moduleNo": 3,
+    "moduleTitle": "Internet & Recherche",
+    "icon": "🌐",
+    "worksheet": "assets/arbeitsblaetter/AB-18_Recherche_Projekt_Steckbrief_erstellen.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/kinder/lernen-schule/lernmodule/",
+      "label": "Internet-ABC – interaktive Lernmodule"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l_aSMNjx_Fw",
+      "label": "Wie funktioniert das Internet?"
+    }
+  },
+  {
+    "n": 19,
+    "date": "Di, 10.11.2026",
+    "ab": 19,
+    "title": "Persönliche Daten schützen",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich unterscheide öffentliche und private Daten und gehe sparsam mit meinen Daten um.",
+    "competencies": "Reflektieren",
+    "material": "AB-19; Beispielprofile",
+    "know": "Persönliche Daten sind alle Angaben über dich (Name, Adresse, Fotos …). Datensparsamkeit heißt: nur so viel preisgeben wie nötig. Einmal veröffentlicht, ist schwer wieder zu löschen.",
+    "basis": [
+      "Sortiere 8 Angaben in 'eher privat' und 'eher öffentlich'.",
+      "Markiere in einem Beispielprofil, was du nicht angeben würdest.",
+      "Nenne drei Daten, die man nie öffentlich posten sollte."
+    ],
+    "extension": [
+      "Erkläre den Grundsatz der Datensparsamkeit an einem Beispiel.",
+      "Beschreibe, was das 'Recht am eigenen Bild' bedeutet."
+    ],
+    "keywords": [
+      "persönliche Daten",
+      "privat",
+      "Datensparsamkeit",
+      "Profil"
+    ],
+    "id": "ITG-19",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-19_Persoenliche_Daten_schuetzen.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/kinder/lernen-schule/lernmodule/",
+      "label": "Internet-ABC: Datenschutz-Lernmodul"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 20,
+    "date": "Do, 12.11.2026",
+    "ab": 20,
+    "title": "Datenschutz & DSGVO – meine Rechte",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich kenne Grundideen des Datenschutzes und meine wichtigsten Rechte.",
+    "competencies": "Reflektieren, Informieren",
+    "material": "AB-20; Infomaterial",
+    "know": "Datenschutz regelt, wie mit personenbezogenen Daten umgegangen werden darf. Die DSGVO gibt dir Rechte, z. B. Auskunft und Löschung. Firmen brauchen einen Grund, um Daten zu verarbeiten.",
+    "basis": [
+      "Ordne 4 Rechte den passenden Beschreibungen zu.",
+      "Markiere in einem Beispiel, welche Daten personenbezogen sind.",
+      "Notiere, an wen du dich bei Datenschutzfragen wenden kannst."
+    ],
+    "extension": [
+      "Erkläre das Recht auf Auskunft mit einem Alltagsbeispiel.",
+      "Beschreibe, warum Datenschutz gerade bei Kindern wichtig ist."
+    ],
+    "keywords": [
+      "Datenschutz",
+      "DSGVO",
+      "personenbezogen",
+      "Löschung"
+    ],
+    "id": "ITG-20",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-20_Datenschutz_DSGVO_meine_Rechte.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/interaktive-medien",
+      "label": "klicksafe: Quiz Datenschutz"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 21,
+    "date": "Di, 17.11.2026",
+    "ab": 21,
+    "title": "Sichere Passwörter & Zwei-Faktor",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich erstelle sichere Passwörter und erkläre die Zwei-Faktor-Authentifizierung.",
+    "competencies": "Reflektieren, Produzieren",
+    "material": "AB-21; Rechner",
+    "know": "Sichere Konten brauchen starke, unterschiedliche Passwörter. Zwei-Faktor bedeutet: zusätzlich zum Passwort ein zweiter Nachweis (z. B. Code aufs Handy).",
+    "basis": [
+      "Bewerte 6 Passwörter nach Sicherheit und begründe kurz.",
+      "Erstelle ein sicheres Passwort nach der Merksatz-Methode.",
+      "Erkläre in einem Satz, was Zwei-Faktor bedeutet."
+    ],
+    "extension": [
+      "Beschreibe, wie ein Angreifer schwache Passwörter knackt.",
+      "Nenne Vor- und Nachteile eines Passwort-Managers."
+    ],
+    "keywords": [
+      "Passwortstärke",
+      "Zwei-Faktor",
+      "Konto",
+      "Angriff"
+    ],
+    "id": "ITG-21",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-21_Sichere_Passwoerter_Zwei_Faktor.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/interaktive-medien",
+      "label": "klicksafe – interaktive Quizze & Medien"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 22,
+    "date": "Do, 19.11.2026",
+    "ab": 22,
+    "title": "Schadsoftware & Phishing erkennen",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich erkenne typische Betrugsmaschen (Phishing) und Schadsoftware und reagiere richtig.",
+    "competencies": "Reflektieren, Analysieren",
+    "material": "AB-22; Beispiel-Mails",
+    "know": "Schadsoftware (Viren, Trojaner) schadet Geräten. Phishing sind gefälschte Nachrichten, die Passwörter/Daten stehlen wollen. Warnzeichen: Druck, Fehler, seltsame Links.",
+    "basis": [
+      "Markiere in einer Beispiel-Mail 3 Warnzeichen für Phishing.",
+      "Entscheide bei 3 Nachrichten: klicken oder nicht?",
+      "Notiere, was du bei Verdacht tust."
+    ],
+    "extension": [
+      "Erkläre, wie man einen Link vor dem Klicken prüft.",
+      "Beschreibe den Unterschied Virus / Trojaner."
+    ],
+    "keywords": [
+      "Phishing",
+      "Schadsoftware",
+      "Warnzeichen",
+      "Link prüfen"
+    ],
+    "id": "ITG-22",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-22_Schadsoftware_Phishing_erkennen.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/kinder/lernen-schule/lernmodule/",
+      "label": "Internet-ABC: Betrug & Viren"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 23,
+    "date": "Di, 24.11.2026",
+    "ab": 23,
+    "title": "Netiquette & Kommunikation im Netz",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich kommuniziere respektvoll und sachlich in digitalen Räumen.",
+    "competencies": "Kommunizieren, Reflektieren",
+    "material": "AB-23; Chat-Beispiele",
+    "know": "Netiquette sind Höflichkeitsregeln im Netz. Man schreibt sachlich, beleidigt niemanden und denkt daran, dass hinter jedem Profil ein Mensch steht.",
+    "basis": [
+      "Verbessere zwei unhöfliche Chat-Nachrichten.",
+      "Ordne 5 Verhaltensweisen 'ok' oder 'nicht ok' zu.",
+      "Formuliere zwei eigene Netiquette-Regeln."
+    ],
+    "extension": [
+      "Erkläre, warum Missverständnisse im Chat häufiger sind als im Gespräch.",
+      "Beschreibe, wie man eine Diskussion sachlich hält."
+    ],
+    "keywords": [
+      "Netiquette",
+      "respektvoll",
+      "sachlich",
+      "Chat"
+    ],
+    "id": "ITG-23",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-23_Netiquette_Kommunikation_im_Netz.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/interaktive-medien",
+      "label": "klicksafe – interaktive Quizze & Medien"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 24,
+    "date": "Do, 26.11.2026",
+    "ab": 24,
+    "title": "Cybermobbing – erkennen & handeln",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich erkenne Cybermobbing und weiß, wie ich mich und andere schütze.",
+    "competencies": "Reflektieren, Kommunizieren",
+    "material": "AB-24; Fallbeispiele, Beratungsadressen",
+    "know": "Cybermobbing ist wiederholtes Beleidigen, Bloßstellen oder Ausgrenzen über digitale Medien. Wichtig: nicht mitmachen, Betroffene unterstützen, Beweise sichern, Hilfe holen.",
+    "basis": [
+      "Markiere in einem Fallbeispiel Merkmale von Cybermobbing.",
+      "Ordne die 4 Handlungsschritte in die richtige Reihenfolge.",
+      "Notiere zwei Anlaufstellen für Hilfe."
+    ],
+    "extension": [
+      "Beschreibe, wie man als Zuschauer/in richtig eingreift.",
+      "Erkläre, warum Screenshots als Beweise wichtig sind."
+    ],
+    "keywords": [
+      "Cybermobbing",
+      "Beweise sichern",
+      "Hilfe holen",
+      "unterstützen"
+    ],
+    "id": "ITG-24",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-24_Cybermobbing_erkennen_handeln.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/materialien/was-tun-bei-cybermobbing",
+      "label": "klicksafe: Was tun bei Cybermobbing?"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 25,
+    "date": "Di, 01.12.2026",
+    "ab": 25,
+    "title": "Urheberrecht & freie Lizenzen",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich erkläre das Urheberrecht und nutze Inhalte mit passenden Lizenzen korrekt.",
+    "competencies": "Reflektieren, Produzieren",
+    "material": "AB-25; Browser, Datenbank für freie Medien",
+    "know": "Wer etwas erschafft, hat das Urheberrecht daran. Fremde Bilder/Texte/Musik darf man nicht einfach nutzen. Freie Lizenzen (z. B. Creative Commons) erlauben die Nutzung unter Bedingungen.",
+    "basis": [
+      "Ordne 4 Nutzungen 'erlaubt' oder 'nicht erlaubt' zu.",
+      "Finde ein CC-Bild und notiere die Lizenz.",
+      "Schreibe eine korrekte Bildquellenangabe."
+    ],
+    "extension": [
+      "Erkläre den Unterschied zwischen Zitat und Kopie.",
+      "Beschreibe, was 'CC BY' konkret verlangt."
+    ],
+    "keywords": [
+      "Urheberrecht",
+      "Lizenz",
+      "Creative Commons",
+      "Quellenangabe"
+    ],
+    "id": "ITG-25",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-25_Urheberrecht_freie_Lizenzen.pdf",
+    "external": {
+      "url": "https://www.internet-abc.de/kinder/lernen-schule/lernmodule/",
+      "label": "Internet-ABC: Text & Bild weitergeben"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 26,
+    "date": "Do, 03.12.2026",
+    "ab": 26,
+    "title": "Digitaler Fußabdruck & Selbstschutz",
+    "module": "M4 · Sicherheit, Datenschutz & Recht",
+    "goal": "Ich reflektiere meine Datenspuren im Netz und richte Grundeinstellungen bewusst ein.",
+    "competencies": "Reflektieren, Analysieren",
+    "material": "AB-26; Beispiel-Einstellungen",
+    "know": "Jede Nutzung hinterlässt Datenspuren (digitaler Fußabdruck). Privatsphäre-Einstellungen und bewusstes Posten schützen dich. Das Netz vergisst wenig.",
+    "basis": [
+      "Liste 5 Datenspuren auf, die du an einem Tag hinterlässt.",
+      "Stelle in einer Beispiel-App die Privatsphäre auf 'privat'.",
+      "Formuliere eine Regel für dein eigenes Posten."
+    ],
+    "extension": [
+      "Erkläre, wie Firmen aus Datenspuren Profile bilden.",
+      "Beschreibe, was du tun kannst, um deinen Fußabdruck zu verkleinern."
+    ],
+    "keywords": [
+      "digitaler Fußabdruck",
+      "Datenspur",
+      "Privatsphäre",
+      "Einstellung"
+    ],
+    "id": "ITG-26",
+    "moduleNo": 4,
+    "moduleTitle": "Sicherheit & Recht",
+    "icon": "🛡️",
+    "worksheet": "assets/arbeitsblaetter/AB-26_Digitaler_Fussabdruck_Selbstschutz.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/interaktive-medien",
+      "label": "klicksafe – interaktive Quizze & Medien"
+    },
+    "video": {
+      "url": "https://www.klicksafe.de/materialien/app-on-sicher-kritisch-und-fair-im-netz",
+      "label": "klicksafe / ZDFtivi – Lernvideos"
+    }
+  },
+  {
+    "n": 27,
+    "date": "Di, 08.12.2026",
+    "ab": 27,
+    "title": "Textverarbeitung – erste Schritte",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich erstelle, speichere und öffne ein Textdokument und schreibe fehlerfrei Grundtext.",
+    "competencies": "Produzieren",
+    "material": "AB-27; Textprogramm",
+    "know": "Ein Textprogramm dient zum Schreiben und Gestalten von Texten. Wichtig ist regelmäßiges Speichern und ein aussagekräftiger Dateiname.",
+    "basis": [
+      "Erstelle ein neues Dokument und tippe den vorgegebenen Text ab.",
+      "Speichere es unter sinnvollem Namen im ITG-Ordner.",
+      "Schließe das Dokument und öffne es erneut."
+    ],
+    "extension": [
+      "Nutze Rückgängig/Wiederholen sinnvoll und beschreibe wann.",
+      "Erkläre den Unterschied 'Speichern' und 'Speichern unter'."
+    ],
+    "keywords": [
+      "Textdokument",
+      "speichern unter",
+      "Cursor",
+      "rückgängig"
+    ],
+    "id": "ITG-27",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-27_Textverarbeitung_erste_Schritte.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 28,
+    "date": "Do, 10.12.2026",
+    "ab": 28,
+    "title": "Zeichen- & Absatzformatierung",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich formatiere Text mit Schriftart, Größe, Auszeichnung und Ausrichtung.",
+    "competencies": "Produzieren, Präsentieren",
+    "material": "AB-28; Textprogramm",
+    "know": "Formatierung macht Texte lesbar: Schriftart und -größe, fett/kursiv/unterstrichen sowie linksbündig, zentriert oder Blocksatz für Absätze.",
+    "basis": [
+      "Formatiere eine Überschrift größer und fett.",
+      "Setze einen Absatz auf Blocksatz.",
+      "Wende auf drei Wörter kursiv an."
+    ],
+    "extension": [
+      "Gestalte einen Text mit klarer Struktur (Überschrift, Absätze).",
+      "Erkläre, warum zu viele Schriftarten unruhig wirken."
+    ],
+    "keywords": [
+      "Schriftart",
+      "fett/kursiv",
+      "Ausrichtung",
+      "Blocksatz"
+    ],
+    "id": "ITG-28",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-28_Zeichen_Absatzformatierung.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 29,
+    "date": "Di, 15.12.2026",
+    "ab": 29,
+    "title": "Aufzählungen, Nummerierungen & Einzüge",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich gliedere Inhalte mit Listen und Einzügen übersichtlich.",
+    "competencies": "Produzieren",
+    "material": "AB-29; Textprogramm",
+    "know": "Listen ordnen Inhalte: Aufzählungen (Punkte) für gleichwertige Dinge, Nummerierungen für Reihenfolgen. Einzüge schaffen Ebenen.",
+    "basis": [
+      "Erstelle eine Aufzählung mit 4 Punkten.",
+      "Wandle eine Aufzählung in eine nummerierte Liste um.",
+      "Erzeuge eine zweite Ebene mit Einzug."
+    ],
+    "extension": [
+      "Gliedere einen kurzen Ablauf sinnvoll als nummerierte Liste.",
+      "Entscheide bei drei Beispielen: Aufzählung oder Nummerierung?"
+    ],
+    "keywords": [
+      "Aufzählung",
+      "Nummerierung",
+      "Einzug",
+      "Ebene"
+    ],
+    "id": "ITG-29",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-29_Aufzaehlungen_Nummerierungen_Einzuege.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 30,
+    "date": "Do, 17.12.2026",
+    "ab": 30,
+    "title": "Rechtschreibprüfung & Suchen/Ersetzen",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich nutze Rechtschreibprüfung sowie Suchen und Ersetzen effizient.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-30; Textprogramm",
+    "know": "Die Rechtschreibprüfung markiert mögliche Fehler – prüfen musst du selbst. Suchen/Ersetzen findet und tauscht Wörter im ganzen Text.",
+    "basis": [
+      "Korrigiere die markierten Fehler in einem Übungstext.",
+      "Ersetze ein Wort im ganzen Text durch ein anderes.",
+      "Finde, wie oft ein Wort vorkommt."
+    ],
+    "extension": [
+      "Beschreibe, warum die Prüfung nicht alle Fehler findet.",
+      "Nutze Ersetzen, um doppelte Leerzeichen zu entfernen."
+    ],
+    "keywords": [
+      "Rechtschreibprüfung",
+      "suchen",
+      "ersetzen",
+      "markieren"
+    ],
+    "id": "ITG-30",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-30_Rechtschreibpruefung_Suchen_Ersetzen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 31,
+    "date": "Di, 22.12.2026",
+    "ab": 31,
+    "title": "Formatvorlagen & Überschriften",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich nutze Formatvorlagen für Überschriften und einheitliche Gestaltung.",
+    "competencies": "Produzieren",
+    "material": "AB-31; Textprogramm",
+    "know": "Formatvorlagen legen das Aussehen von Überschriften und Text einmal fest. Das spart Zeit und sorgt für ein einheitliches Dokument – die Grundlage für ein Inhaltsverzeichnis.",
+    "basis": [
+      "Weise zwei Überschriften die Formatvorlagen 'Überschrift 1/2' zu.",
+      "Ändere die Vorlage 'Überschrift 1' einmal zentral.",
+      "Beobachte, was sich im ganzen Dokument ändert."
+    ],
+    "extension": [
+      "Erstelle aus den Überschriften ein automatisches Inhaltsverzeichnis.",
+      "Erkläre den Vorteil von Formatvorlagen bei langen Texten."
+    ],
+    "keywords": [
+      "Formatvorlage",
+      "Überschrift 1",
+      "einheitlich",
+      "Inhaltsverzeichnis"
+    ],
+    "id": "ITG-31",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-31_Formatvorlagen_Ueberschriften.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 32,
+    "date": "Di, 05.01.2027",
+    "ab": 32,
+    "title": "Tabellen & Bilder im Text",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich füge Tabellen und Bilder ein und positioniere sie sauber.",
+    "competencies": "Produzieren, Präsentieren",
+    "material": "AB-32; Textprogramm, freie Bilder",
+    "know": "Tabellen ordnen Daten in Zeilen und Spalten. Bilder veranschaulichen Inhalte – mit Beschriftung und korrekter Quellenangabe.",
+    "basis": [
+      "Füge eine Tabelle mit 3 Spalten und 3 Zeilen ein und fülle sie.",
+      "Füge ein rechtefreies Bild ein und beschrifte es.",
+      "Passe die Bildgröße sinnvoll an."
+    ],
+    "extension": [
+      "Formatiere die Tabelle mit Kopfzeile und Rahmen.",
+      "Ergänze eine korrekte Bildquellenangabe."
+    ],
+    "keywords": [
+      "Tabelle",
+      "Zeile/Spalte",
+      "Bild einfügen",
+      "Beschriftung"
+    ],
+    "id": "ITG-32",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-32_Tabellen_Bilder_im_Text.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 33,
+    "date": "Do, 07.01.2027",
+    "ab": 33,
+    "title": "Seitenlayout & Drucken",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich richte Seitenränder, Kopf-/Fußzeile und Seitenzahlen ein und erstelle ein PDF.",
+    "competencies": "Produzieren",
+    "material": "AB-33; Textprogramm",
+    "know": "Vor dem Drucken/Abgeben stellt man Seitenränder, Ausrichtung und Seitenzahlen ein. Eine PDF-Datei bewahrt das Layout auf jedem Gerät.",
+    "basis": [
+      "Füge eine Fußzeile mit Seitenzahl ein.",
+      "Schreibe deinen Namen in die Kopfzeile.",
+      "Exportiere das Dokument als PDF."
+    ],
+    "extension": [
+      "Ändere die Ausrichtung einer Seite auf Querformat.",
+      "Erkläre, warum man oft PDF statt Textdatei abgibt."
+    ],
+    "keywords": [
+      "Seitenrand",
+      "Kopf-/Fußzeile",
+      "Seitenzahl",
+      "PDF-Export"
+    ],
+    "id": "ITG-33",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-33_Seitenlayout_Drucken.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 34,
+    "date": "Di, 12.01.2027",
+    "ab": 34,
+    "title": "Projekt: Digitaler Brief oder Flyer",
+    "module": "M5 · Textverarbeitung",
+    "goal": "Ich erstelle ein vollständiges, sauber gestaltetes Textprodukt.",
+    "competencies": "Produzieren, Präsentieren",
+    "material": "AB-34; Textprogramm",
+    "know": "Jetzt wendest du alles an: Struktur, Formatierung, Bild und Layout. Du erstellst einen digitalen Brief oder einen Info-Flyer.",
+    "basis": [
+      "Plane dein Produkt (Zweck, Inhalt) in Stichworten.",
+      "Setze es mit Überschrift, Absätzen und einem Bild um.",
+      "Exportiere es als PDF und lege es im Portfolio ab."
+    ],
+    "extension": [
+      "Gestalte den Flyer zweispaltig oder mit Textfeldern.",
+      "Bewerte dein Produkt mit der Kriterienliste selbst."
+    ],
+    "keywords": [
+      "Layout",
+      "Zielgruppe",
+      "gestalten",
+      "Kriterien"
+    ],
+    "id": "ITG-34",
+    "moduleNo": 5,
+    "moduleTitle": "Textverarbeitung",
+    "icon": "📝",
+    "worksheet": "assets/arbeitsblaetter/AB-34_Projekt_Digitaler_Brief_oder_Flyer.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/word/",
+      "label": "Microsoft Word – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-DE/Word/training/create-a-document-in-word",
+      "label": "Word – Dokument erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 35,
+    "date": "Do, 14.01.2027",
+    "ab": 35,
+    "title": "Was ist eine gute Präsentation?",
+    "module": "M6 · Präsentation",
+    "goal": "Ich nenne Merkmale guter Präsentationen und unterscheide Folie und Vortrag.",
+    "competencies": "Analysieren, Reflektieren",
+    "material": "AB-35; Beispielpräsentationen",
+    "know": "Eine Präsentation unterstützt einen Vortrag – sie ersetzt ihn nicht. Gute Folien sind übersichtlich, mit wenig Text und passenden Bildern.",
+    "basis": [
+      "Bewerte zwei Beispielfolien: was ist gut, was schlecht?",
+      "Sammle 4 Merkmale einer guten Folie.",
+      "Unterscheide 'Folie' und 'Vortrag' in je einem Satz."
+    ],
+    "extension": [
+      "Formuliere die '5er-Regel' für Folien in eigenen Worten.",
+      "Beschreibe, warum man Folien nicht abliest."
+    ],
+    "keywords": [
+      "Präsentation",
+      "Folie",
+      "Vortrag",
+      "übersichtlich"
+    ],
+    "id": "ITG-35",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-35_Was_ist_eine_gute_Praesentation.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 36,
+    "date": "Di, 19.01.2027",
+    "ab": 36,
+    "title": "Erste Folien erstellen",
+    "module": "M6 · Präsentation",
+    "goal": "Ich erstelle Folien mit Titel, Text und Layout.",
+    "competencies": "Produzieren",
+    "material": "AB-36; Präsentationsprogramm",
+    "know": "Ein Präsentationsprogramm arbeitet mit Folien und Layouts (Titel, Inhalt). Man ergänzt Text und wählt ein passendes Design.",
+    "basis": [
+      "Erstelle eine Titelfolie und zwei Inhaltsfolien.",
+      "Wähle ein einheitliches Design.",
+      "Schreibe pro Folie nur Stichpunkte."
+    ],
+    "extension": [
+      "Nutze verschiedene Folienlayouts sinnvoll.",
+      "Erkläre, warum ein einheitliches Design wichtig ist."
+    ],
+    "keywords": [
+      "Folie",
+      "Layout",
+      "Design",
+      "Stichpunkt"
+    ],
+    "id": "ITG-36",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-36_Erste_Folien_erstellen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 37,
+    "date": "Do, 21.01.2027",
+    "ab": 37,
+    "title": "Bilder, Diagramme & Medien einbauen",
+    "module": "M6 · Präsentation",
+    "goal": "Ich füge passende Bilder und einfache Diagramme rechtssicher ein.",
+    "competencies": "Produzieren, Präsentieren",
+    "material": "AB-37; Präsentationsprogramm, freie Medien",
+    "know": "Bilder und Diagramme veranschaulichen Inhalte. Nutze rechtefreie Medien und gib Quellen an. Weniger, aber gute Bilder wirken besser.",
+    "basis": [
+      "Füge auf zwei Folien je ein rechtefreies Bild ein.",
+      "Erstelle ein einfaches Diagramm aus vorgegebenen Zahlen.",
+      "Ergänze eine Quellenfolie."
+    ],
+    "extension": [
+      "Wähle für Daten den passenden Diagrammtyp und begründe.",
+      "Reduziere eine überladene Folie auf das Wesentliche."
+    ],
+    "keywords": [
+      "Bild",
+      "Diagramm",
+      "rechtefrei",
+      "Quellenfolie"
+    ],
+    "id": "ITG-37",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-37_Bilder_Diagramme_Medien_einbauen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 38,
+    "date": "Di, 26.01.2027",
+    "ab": 38,
+    "title": "Animationen & Übergänge – weniger ist mehr",
+    "module": "M6 · Präsentation",
+    "goal": "Ich setze Animationen sparsam und sinnvoll ein.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-38; Präsentationsprogramm",
+    "know": "Animationen können Inhalte nacheinander zeigen; Übergänge wechseln Folien. Zu viele Effekte lenken ab – setze sie gezielt ein.",
+    "basis": [
+      "Lasse auf einer Folie 3 Punkte nacheinander erscheinen.",
+      "Füge einen dezenten Folienübergang ein.",
+      "Entferne einen überflüssigen Effekt."
+    ],
+    "extension": [
+      "Begründe, wann eine Animation den Inhalt wirklich unterstützt.",
+      "Gestalte eine Folie ohne jede Animation bewusst ruhig."
+    ],
+    "keywords": [
+      "Animation",
+      "Übergang",
+      "dezent",
+      "gezielt"
+    ],
+    "id": "ITG-38",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-38_Animationen_Uebergaenge_weniger_ist_mehr.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 39,
+    "date": "Do, 28.01.2027",
+    "ab": 39,
+    "title": "Vortragen üben – Stimme & Körper",
+    "module": "M6 · Präsentation",
+    "goal": "Ich halte einen kurzen Vortrag frei und adressatengerecht.",
+    "competencies": "Präsentieren, Kommunizieren",
+    "material": "AB-39; eigene Präsentation",
+    "know": "Beim Vortrag zählen Blickkontakt, deutliche Sprache und ruhige Körperhaltung. Karten mit Stichworten helfen, frei zu sprechen.",
+    "basis": [
+      "Erstelle Stichwortkarten zu deinen Folien.",
+      "Übe deinen Vortrag einmal leise für dich.",
+      "Trage einer Partnerin/einem Partner 1 Minute vor."
+    ],
+    "extension": [
+      "Hole dir Feedback nach der Kriterienliste und notiere zwei Ziele.",
+      "Beschreibe, wie du mit Lampenfieber umgehst."
+    ],
+    "keywords": [
+      "Vortrag",
+      "Blickkontakt",
+      "Stichwortkarte",
+      "Feedback"
+    ],
+    "id": "ITG-39",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-39_Vortragen_ueben_Stimme_Koerper.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 40,
+    "date": "Di, 09.02.2027",
+    "ab": 40,
+    "title": "Präsentationsprojekt vorbereiten",
+    "module": "M6 · Präsentation",
+    "goal": "Ich plane und erstelle eine vollständige kleine Präsentation zu einem Thema.",
+    "competencies": "Informieren, Produzieren, Präsentieren",
+    "material": "AB-40; Präsentationsprogramm",
+    "know": "Du planst Inhalt und Aufbau (Einleitung – Hauptteil – Schluss), recherchierst und erstellst 4–6 Folien mit Quellenangaben.",
+    "basis": [
+      "Plane deine Präsentation mit einer Gliederung.",
+      "Erstelle 4–6 Folien nach den Regeln.",
+      "Ergänze eine Quellenfolie."
+    ],
+    "extension": [
+      "Baue ein passendes Diagramm oder Bild ein.",
+      "Schreibe eine Überleitung zwischen zwei Folien."
+    ],
+    "keywords": [
+      "Gliederung",
+      "Einleitung/Schluss",
+      "Folienzahl",
+      "Quellen"
+    ],
+    "id": "ITG-40",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-40_Praesentationsprojekt_vorbereiten.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 41,
+    "date": "Do, 11.02.2027",
+    "ab": 41,
+    "title": "Präsentationen halten & Feedback",
+    "module": "M6 · Präsentation",
+    "goal": "Ich präsentiere mein Projekt und gebe faires, konkretes Feedback.",
+    "competencies": "Präsentieren, Kommunizieren, Reflektieren",
+    "material": "AB-41; eigene Präsentation, Feedbackbogen",
+    "know": "Beim Präsentieren zeigst du dein Ergebnis. Gutes Feedback ist konkret, wertschätzend und nennt Stärken sowie einen Tipp.",
+    "basis": [
+      "Halte deine Präsentation (2–3 Minuten).",
+      "Fülle für eine andere Gruppe den Feedbackbogen aus.",
+      "Notiere zwei Dinge, die dir gelungen sind."
+    ],
+    "extension": [
+      "Formuliere einen konkreten Verbesserungstipp freundlich.",
+      "Leite aus dem Feedback ein Ziel für das nächste Mal ab."
+    ],
+    "keywords": [
+      "präsentieren",
+      "Feedback",
+      "wertschätzend",
+      "Ziel"
+    ],
+    "id": "ITG-41",
+    "moduleNo": 6,
+    "moduleTitle": "Präsentation",
+    "icon": "📊",
+    "worksheet": "assets/arbeitsblaetter/AB-41_Praesentationen_halten_Feedback.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/",
+      "label": "Microsoft PowerPoint – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://support.microsoft.com/de-de/powerpoint/training/create-a-presentation-in-powerpoint",
+      "label": "PowerPoint – Präsentation erstellen (mit Video)"
+    }
+  },
+  {
+    "n": 42,
+    "date": "Di, 16.02.2027",
+    "ab": 42,
+    "title": "Tabellenkalkulation – Aufbau & Zellen",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich orientiere mich in einer Tabelle und trage Daten in Zellen ein.",
+    "competencies": "Produzieren, Analysieren",
+    "material": "AB-42; Tabellenprogramm",
+    "know": "Eine Tabelle besteht aus Spalten (Buchstaben) und Zeilen (Zahlen). Jede Zelle hat eine Adresse (z. B. B3). Hier ordnet man Daten und rechnet damit.",
+    "basis": [
+      "Trage eine kleine Datenreihe in Spalte A ein.",
+      "Benenne die Adressen von 3 markierten Zellen.",
+      "Verändere die Spaltenbreite."
+    ],
+    "extension": [
+      "Erkläre den Unterschied Zeile/Spalte an einem Beispiel.",
+      "Formatiere eine Kopfzeile fett und farbig."
+    ],
+    "keywords": [
+      "Zelle",
+      "Spalte/Zeile",
+      "Zelladresse",
+      "Tabelle"
+    ],
+    "id": "ITG-42",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-42_Tabellenkalkulation_Aufbau_Zellen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 43,
+    "date": "Do, 18.02.2027",
+    "ab": 43,
+    "title": "Einfache Formeln: + - × ÷",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich rechne mit Formeln und Zellbezügen.",
+    "competencies": "Produzieren, Analysieren",
+    "material": "AB-43; Tabellenprogramm",
+    "know": "Formeln beginnen mit '='. Statt fester Zahlen nutzt man Zellbezüge (z. B. =A1+B1). Ändert sich A1, rechnet die Tabelle automatisch neu.",
+    "basis": [
+      "Schreibe eine Formel, die zwei Zellen addiert.",
+      "Erstelle Formeln für Differenz und Produkt.",
+      "Ändere einen Wert und beobachte das Ergebnis."
+    ],
+    "extension": [
+      "Erkläre, warum Zellbezüge besser sind als feste Zahlen.",
+      "Baue eine Formel mit Klammern und teste sie."
+    ],
+    "keywords": [
+      "Formel",
+      "=",
+      "Zellbezug",
+      "Rechenzeichen"
+    ],
+    "id": "ITG-43",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-43_Einfache_Formeln.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 44,
+    "date": "Di, 23.02.2027",
+    "ab": 44,
+    "title": "Summe & Mittelwert",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich nutze die Funktionen SUMME und MITTELWERT über Bereiche.",
+    "competencies": "Produzieren, Analysieren",
+    "material": "AB-44; Tabellenprogramm",
+    "know": "Funktionen sind fertige Formeln. SUMME addiert einen Bereich (z. B. =SUMME(B2:B10)), MITTELWERT berechnet den Durchschnitt.",
+    "basis": [
+      "Berechne die Summe einer Spalte mit SUMME.",
+      "Berechne den Mittelwert derselben Spalte.",
+      "Ziehe eine Formel mit dem Ausfüllkästchen nach unten."
+    ],
+    "extension": [
+      "Erkläre die Bereichsschreibweise B2:B10.",
+      "Finde und nutze die Funktion MAX oder MIN."
+    ],
+    "keywords": [
+      "Funktion",
+      "SUMME",
+      "MITTELWERT",
+      "Bereich"
+    ],
+    "id": "ITG-44",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-44_Summe_Mittelwert.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 45,
+    "date": "Do, 25.02.2027",
+    "ab": 45,
+    "title": "Zellen formatieren: Zahlen, Währung, %",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich formatiere Zahlen als Währung, Prozent und mit Nachkommastellen.",
+    "competencies": "Produzieren",
+    "material": "AB-45; Tabellenprogramm",
+    "know": "Zahlenformate ändern die Anzeige, nicht den Wert: z. B. Währung (€), Prozent (%) oder feste Nachkommastellen. Das macht Tabellen lesbar.",
+    "basis": [
+      "Formatiere eine Spalte als Währung.",
+      "Zeige eine Zahl als Prozent an.",
+      "Stelle 2 Nachkommastellen ein."
+    ],
+    "extension": [
+      "Erkläre den Unterschied zwischen Wert und Anzeige.",
+      "Färbe negative Werte automatisch rot (bedingte Formatierung)."
+    ],
+    "keywords": [
+      "Zahlenformat",
+      "Währung",
+      "Prozent",
+      "Nachkommastelle"
+    ],
+    "id": "ITG-45",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-45_Zellen_formatieren_Zahlen_Waehrung.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 46,
+    "date": "Di, 02.03.2027",
+    "ab": 46,
+    "title": "Diagramme erstellen",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich erstelle aus Daten ein passendes Diagramm und beschrifte es.",
+    "competencies": "Produzieren, Präsentieren, Analysieren",
+    "material": "AB-46; Tabellenprogramm",
+    "know": "Diagramme machen Daten anschaulich: Säulen für Vergleiche, Linien für Verläufe, Kreise für Anteile. Achsen und Titel gehören dazu.",
+    "basis": [
+      "Erstelle aus einer Datenreihe ein Säulendiagramm.",
+      "Ergänze Diagrammtitel und Achsenbeschriftung.",
+      "Ändere den Diagrammtyp einmal."
+    ],
+    "extension": [
+      "Wähle für drei Datensätze je den passenden Diagrammtyp.",
+      "Erkläre, wie ein Diagramm täuschen kann (Achsen)."
+    ],
+    "keywords": [
+      "Diagramm",
+      "Säule/Linie/Kreis",
+      "Achse",
+      "Diagrammtitel"
+    ],
+    "id": "ITG-46",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-46_Diagramme_erstellen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 47,
+    "date": "Do, 04.03.2027",
+    "ab": 47,
+    "title": "Sortieren & Filtern",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich sortiere und filtere Daten, um Informationen zu finden.",
+    "competencies": "Analysieren, Informieren",
+    "material": "AB-47; Tabellenprogramm, Datensatz",
+    "know": "Sortieren ordnet Daten (z. B. A–Z, groß–klein). Filtern blendet nur passende Zeilen ein. So findet man in großen Tabellen schnell das Gesuchte.",
+    "basis": [
+      "Sortiere eine Namensliste alphabetisch.",
+      "Filtere die Tabelle nach einem Kriterium.",
+      "Notiere, wie viele Zeilen der Filter zeigt."
+    ],
+    "extension": [
+      "Sortiere nach zwei Kriterien nacheinander.",
+      "Formuliere eine Frage, die man nur mit Filter beantwortet."
+    ],
+    "keywords": [
+      "sortieren",
+      "filtern",
+      "Kriterium",
+      "Datensatz"
+    ],
+    "id": "ITG-47",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-47_Sortieren_Filtern.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 48,
+    "date": "Di, 09.03.2027",
+    "ab": 48,
+    "title": "Eine kleine Auswertung planen",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich plane eine Tabelle zur Auswertung einer echten Fragestellung.",
+    "competencies": "Produzieren, Analysieren, Informieren",
+    "material": "AB-48; Tabellenprogramm",
+    "know": "Vor dem Rechnen kommt die Planung: Welche Frage? Welche Daten (Spalten)? Welche Rechnung/Diagramm? So entsteht eine sinnvolle Auswertung.",
+    "basis": [
+      "Formuliere eine Auswertungsfrage (z. B. Umfrage in der Klasse).",
+      "Lege die nötigen Spalten fest und trage Beispieldaten ein.",
+      "Plane, welche Funktion du brauchst."
+    ],
+    "extension": [
+      "Wähle das passende Diagramm für deine Frage.",
+      "Begründe deine Spaltenauswahl."
+    ],
+    "keywords": [
+      "Fragestellung",
+      "Datenspalte",
+      "Auswertung",
+      "planen"
+    ],
+    "id": "ITG-48",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-48_Eine_kleine_Auswertung_planen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 49,
+    "date": "Do, 11.03.2027",
+    "ab": 49,
+    "title": "Projekt: Umfrage auswerten & darstellen",
+    "module": "M7 · Tabellenkalkulation",
+    "goal": "Ich werte Daten mit Funktionen aus und stelle das Ergebnis als Diagramm dar.",
+    "competencies": "Produzieren, Analysieren, Präsentieren",
+    "material": "AB-49; Tabellenprogramm",
+    "know": "Du führst deine Auswertung durch: Daten eintragen, mit SUMME/MITTELWERT rechnen, ein Diagramm erstellen und das Ergebnis in einem Satz zusammenfassen.",
+    "basis": [
+      "Trage deine (Beispiel-)Daten vollständig ein.",
+      "Berechne Summe und Mittelwert.",
+      "Erstelle ein passendes, beschriftetes Diagramm."
+    ],
+    "extension": [
+      "Formatiere die Tabelle sauber (Kopfzeile, Zahlenformat).",
+      "Schreibe ein Fazit aus deinem Diagramm."
+    ],
+    "keywords": [
+      "Auswertung",
+      "Funktion",
+      "Diagramm",
+      "Fazit"
+    ],
+    "id": "ITG-49",
+    "moduleNo": 7,
+    "moduleTitle": "Tabellenkalkulation",
+    "icon": "🧮",
+    "worksheet": "assets/arbeitsblaetter/AB-49_Projekt_Umfrage_auswerten_darstellen.pdf",
+    "external": {
+      "url": "https://support.microsoft.com/de-de/excel/",
+      "label": "Microsoft Excel – Hilfe & Training"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7UwOJDr9bqo",
+      "label": "Excel Komplett-Kurs für Anfänger"
+    }
+  },
+  {
+    "n": 50,
+    "date": "Di, 16.03.2027",
+    "ab": 50,
+    "title": "Pixel & Auflösung – wie Bilder entstehen",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich erkläre, dass Rasterbilder aus Pixeln bestehen, und verstehe Auflösung.",
+    "competencies": "Analysieren, Reflektieren",
+    "material": "AB-50; Bildbetrachter, Beispielbilder",
+    "know": "Ein Rasterbild (Foto) besteht aus vielen kleinen Bildpunkten (Pixeln). Die Auflösung gibt an, wie viele Pixel ein Bild hat – mehr Pixel bedeuten mehr Details und größere Dateien.",
+    "basis": [
+      "Zoome in ein Bild, bis du Pixel siehst, und beschreibe.",
+      "Ordne 3 Bildern ihre Auflösung/Größe zu.",
+      "Erkläre 'Pixel' in einem Satz."
+    ],
+    "extension": [
+      "Erkläre den Zusammenhang von Auflösung und Dateigröße.",
+      "Beschreibe, wann ein Bild 'verpixelt' wirkt."
+    ],
+    "keywords": [
+      "Pixel",
+      "Auflösung",
+      "Rasterbild",
+      "Dateigröße"
+    ],
+    "id": "ITG-50",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-50_Pixel_Aufloesung_wie_Bilder_entstehen.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Pixel+%26+Aufl%C3%B6sung+%E2%80%93+wie+Bilder+entstehen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 51,
+    "date": "Do, 18.03.2027",
+    "ab": 51,
+    "title": "Bildformate: JPG, PNG, GIF",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich wähle das passende Bildformat für Foto, Grafik oder Animation.",
+    "competencies": "Analysieren, Produzieren",
+    "material": "AB-51; Bildprogramm",
+    "know": "JPG eignet sich für Fotos (klein, aber verlustbehaftet), PNG für Grafiken/Transparenz, GIF für kurze Animationen. Das richtige Format spart Platz und erhält Qualität.",
+    "basis": [
+      "Ordne 3 Bildaufgaben dem passenden Format zu.",
+      "Speichere ein Bild einmal als JPG und einmal als PNG.",
+      "Vergleiche die Dateigrößen."
+    ],
+    "extension": [
+      "Erkläre 'verlustbehaftet' an einem Beispiel.",
+      "Nenne eine Situation, in der Transparenz (PNG) nötig ist."
+    ],
+    "keywords": [
+      "JPG",
+      "PNG",
+      "GIF",
+      "verlustbehaftet"
+    ],
+    "id": "ITG-51",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-51_Bildformate_JPG_PNG_GIF.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Bildformate%3A+JPG%2C+PNG%2C+GIF+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 52,
+    "date": "Di, 06.04.2027",
+    "ab": 52,
+    "title": "Bilder bearbeiten: zuschneiden & anpassen",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich schneide Bilder zu und passe Helligkeit/Kontrast an.",
+    "competencies": "Produzieren",
+    "material": "AB-52; Bildprogramm",
+    "know": "Bildbearbeitung verbessert Bilder: Zuschneiden entfernt Unwichtiges, Helligkeit und Kontrast machen es klarer. Das Original sollte man behalten.",
+    "basis": [
+      "Schneide ein Bild auf einen Ausschnitt zu.",
+      "Verändere Helligkeit und Kontrast.",
+      "Speichere das Ergebnis unter neuem Namen."
+    ],
+    "extension": [
+      "Begradige oder drehe ein schiefes Bild.",
+      "Erkläre, warum man das Original nicht überschreibt."
+    ],
+    "keywords": [
+      "zuschneiden",
+      "Helligkeit",
+      "Kontrast",
+      "Original"
+    ],
+    "id": "ITG-52",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-52_Bilder_bearbeiten_zuschneiden_anpassen.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Bilder+bearbeiten%3A+zuschneiden+%26+anpassen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 53,
+    "date": "Do, 08.04.2027",
+    "ab": 53,
+    "title": "Bildbearbeitung & Manipulation kritisch",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich erkenne, dass Bilder manipuliert sein können, und beurteile ihre Wirkung.",
+    "competencies": "Analysieren, Reflektieren",
+    "material": "AB-53; Beispielbilder (vorher/nachher)",
+    "know": "Bilder lassen sich stark verändern. In Werbung und Netz sind viele Bilder bearbeitet. Kritisches Sehen hilft, Wirkung und Wahrheit zu unterscheiden.",
+    "basis": [
+      "Vergleiche ein Vorher/Nachher-Bild und markiere 3 Änderungen.",
+      "Beschreibe, welche Wirkung die Bearbeitung erzeugt.",
+      "Entscheide bei 3 Bildern: echt oder bearbeitet?"
+    ],
+    "extension": [
+      "Diskutiere, wann Bearbeitung ok ist und wann problematisch.",
+      "Erkläre, wie bearbeitete Bilder Meinungen beeinflussen."
+    ],
+    "keywords": [
+      "Manipulation",
+      "Bearbeitung",
+      "Wirkung",
+      "kritisch sehen"
+    ],
+    "id": "ITG-53",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-53_Bildbearbeitung_Manipulation_kritisch.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Bildbearbeitung+%26+Manipulation+kritisch+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 54,
+    "date": "Di, 13.04.2027",
+    "ab": 54,
+    "title": "Vektorgrafik – ein Logo gestalten",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich unterscheide Raster und Vektor und erstelle eine einfache Vektorgrafik.",
+    "competencies": "Produzieren, Analysieren",
+    "material": "AB-54; Vektorprogramm",
+    "know": "Vektorgrafiken bestehen aus Formen und Linien (nicht aus Pixeln) und bleiben bei jeder Größe scharf. Ideal für Logos und Symbole.",
+    "basis": [
+      "Erstelle ein Logo aus Grundformen (Kreis, Rechteck).",
+      "Färbe die Formen und ordne sie an.",
+      "Vergrößere die Grafik und prüfe die Schärfe."
+    ],
+    "extension": [
+      "Erkläre, warum ein Logo als Vektor besser ist.",
+      "Kombiniere Formen zu einem eigenen Symbol."
+    ],
+    "keywords": [
+      "Vektorgrafik",
+      "Form",
+      "skalierbar",
+      "Logo"
+    ],
+    "id": "ITG-54",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-54_Vektorgrafik_ein_Logo_gestalten.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Vektorgrafik+%E2%80%93+ein+Logo+gestalten+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 55,
+    "date": "Do, 15.04.2027",
+    "ab": 55,
+    "title": "Ton & Audio – aufnehmen und schneiden",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich nehme kurze Audios auf und schneide sie einfach.",
+    "competencies": "Produzieren",
+    "material": "AB-55; Audioprogramm, Mikrofon",
+    "know": "Audioprogramme nehmen Ton auf und zeigen ihn als Wellenform. Man kann Teile ausschneiden, Pausen entfernen und exportieren.",
+    "basis": [
+      "Nimm einen kurzen Sprechtext auf.",
+      "Schneide Anfang und Ende sauber.",
+      "Exportiere die Datei als MP3."
+    ],
+    "extension": [
+      "Entferne eine Pause oder ein Störgeräusch.",
+      "Erkläre, worauf man bei Aufnahmen achtet (Abstand, Ruhe)."
+    ],
+    "keywords": [
+      "Aufnahme",
+      "Wellenform",
+      "schneiden",
+      "exportieren"
+    ],
+    "id": "ITG-55",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-55_Ton_Audio_aufnehmen_und_schneiden.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Ton+%26+Audio+%E2%80%93+aufnehmen+und+schneiden+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 56,
+    "date": "Di, 20.04.2027",
+    "ab": 56,
+    "title": "Medienprodukt: kleiner Comic oder Plakat",
+    "module": "M8 · Bild, Grafik & Medien",
+    "goal": "Ich erstelle ein digitales Medienprodukt aus Bild und Text.",
+    "competencies": "Produzieren, Präsentieren",
+    "material": "AB-56; Bild-/Textprogramm, freie Medien",
+    "know": "Jetzt kombinierst du Bild und Text zu einem Produkt (Comic, Plakat, Bildergeschichte). Achte auf Gestaltung, Lesbarkeit und Bildrechte.",
+    "basis": [
+      "Plane dein Produkt (Thema, Aufbau) kurz.",
+      "Erstelle es mit mindestens 3 Bildern/Feldern und Text.",
+      "Gib Bildquellen an und exportiere als PDF/Bild."
+    ],
+    "extension": [
+      "Gestalte bewusst mit Kontrast und Ausrichtung.",
+      "Bewerte dein Produkt mit der Kriterienliste."
+    ],
+    "keywords": [
+      "Medienprodukt",
+      "Gestaltung",
+      "Lesbarkeit",
+      "Bildrechte"
+    ],
+    "id": "ITG-56",
+    "moduleNo": 8,
+    "moduleTitle": "Bild, Grafik & Medien",
+    "icon": "🎨",
+    "worksheet": "assets/arbeitsblaetter/AB-56_Medienprodukt_kleiner_Comic_oder_Plakat.pdf",
+    "external": {
+      "url": "https://edu.gcfglobal.org/en/imageediting101/",
+      "label": "Image Editing 101 – Übungen & Beispiele"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Medienprodukt%3A+kleiner+Comic+oder+Plakat+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 57,
+    "date": "Do, 22.04.2027",
+    "ab": 57,
+    "title": "Was ist ein Algorithmus?",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich beschreibe Abläufe als Schritt-für-Schritt-Anleitung (Algorithmus).",
+    "competencies": "Problemlösen, Modellieren",
+    "material": "AB-57; Papier, ggf. Rechner",
+    "know": "Ein Algorithmus ist eine eindeutige Schritt-für-Schritt-Anleitung, die ein Problem löst – wie ein Rezept. Computer führen Algorithmen als Programme aus.",
+    "basis": [
+      "Schreibe eine Schritt-für-Schritt-Anleitung 'Zähneputzen'.",
+      "Bringe die durcheinander geratenen Schritte in die richtige Reihenfolge.",
+      "Erkläre 'Algorithmus' in einem Satz."
+    ],
+    "extension": [
+      "Finde einen Schritt, der nicht eindeutig ist, und verbessere ihn.",
+      "Beschreibe einen Alltagsalgorithmus deiner Wahl."
+    ],
+    "keywords": [
+      "Algorithmus",
+      "Schritt",
+      "eindeutig",
+      "Reihenfolge"
+    ],
+    "id": "ITG-57",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-57_Was_ist_ein_Algorithmus.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Was+ist+ein+Algorithmus%3F+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 58,
+    "date": "Di, 27.04.2027",
+    "ab": 58,
+    "title": "Scratch kennenlernen – Bühne & Blöcke",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich finde mich in Scratch zurecht und lasse eine Figur reagieren.",
+    "competencies": "Produzieren, Modellieren",
+    "material": "AB-58; Scratch",
+    "know": "Scratch ist eine Programmierumgebung mit Bausteinen. Man zieht Blöcke zusammen, die eine Figur (Sprite) auf der Bühne steuern.",
+    "basis": [
+      "Lasse eine Figur bei Klick auf die grüne Fahne 'Hallo' sagen.",
+      "Bewege die Figur um 10 Schritte.",
+      "Ändere ein Aussehen (Kostüm/Farbe)."
+    ],
+    "extension": [
+      "Füge einen Ton beim Start hinzu.",
+      "Beschreibe, was ein 'Skript' in Scratch ist."
+    ],
+    "keywords": [
+      "Scratch",
+      "Sprite/Figur",
+      "Block",
+      "Bühne"
+    ],
+    "id": "ITG-58",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-58_Scratch_kennenlernen_Buehne_Bloecke.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted",
+      "label": "Scratch – Schritt-für-Schritt-Einstieg"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Scratch+kennenlernen+%E2%80%93+B%C3%BChne+%26+Bl%C3%B6cke+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 59,
+    "date": "Do, 29.04.2027",
+    "ab": 59,
+    "title": "Sequenz: Bewegung & Ereignisse",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich baue Skripte als Abfolge (Sequenz) und starte sie mit Ereignissen.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-59; Scratch",
+    "know": "Eine Sequenz ist eine Reihenfolge von Befehlen. Ereignisblöcke (z. B. 'wenn Fahne geklickt') starten ein Skript.",
+    "basis": [
+      "Lasse die Figur ein Quadrat ablaufen (vor, drehen, …).",
+      "Starte zwei verschiedene Skripte mit verschiedenen Tasten.",
+      "Ordne die Befehle in die richtige Reihenfolge."
+    ],
+    "extension": [
+      "Erkläre, warum die Reihenfolge der Befehle wichtig ist.",
+      "Baue eine kurze Bewegungs-Choreografie."
+    ],
+    "keywords": [
+      "Sequenz",
+      "Befehl",
+      "Ereignis",
+      "starten"
+    ],
+    "id": "ITG-59",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-59_Sequenz_Bewegung_Ereignisse.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Sequenz%3A+Bewegung+%26+Ereignisse+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 60,
+    "date": "Di, 04.05.2027",
+    "ab": 60,
+    "title": "Schleifen: Wiederholungen",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich nutze Wiederholungen (Schleifen), um Code zu verkürzen.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-60; Scratch",
+    "know": "Eine Schleife wiederholt Befehle. Statt 4-mal 'gehe/drehe' nutzt man 'wiederhole 4-mal'. Das macht Programme kürzer und klarer.",
+    "basis": [
+      "Zeichne ein Quadrat mit 'wiederhole 4-mal'.",
+      "Ändere die Schleife, sodass ein Dreieck entsteht.",
+      "Zähle, wie viele Blöcke du sparst."
+    ],
+    "extension": [
+      "Erzeuge mit einer Schleife ein Vieleck deiner Wahl.",
+      "Erkläre den Vorteil von Schleifen in eigenen Worten."
+    ],
+    "keywords": [
+      "Schleife",
+      "wiederhole",
+      "Vieleck",
+      "verkürzen"
+    ],
+    "id": "ITG-60",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-60_Schleifen_Wiederholungen.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Schleifen%3A+Wiederholungen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 61,
+    "date": "Di, 11.05.2027",
+    "ab": 61,
+    "title": "Bedingungen: wenn … dann",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich lasse das Programm auf Bedingungen reagieren.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-61; Scratch",
+    "know": "Mit Verzweigungen ('wenn … dann') trifft das Programm Entscheidungen, z. B. auf Berührung oder Tastendruck zu reagieren.",
+    "basis": [
+      "Lasse die Figur bei Randberührung abprallen.",
+      "Reagiere auf eine gedrückte Taste mit einer Aktion.",
+      "Erkläre 'wenn … dann' an einem Beispiel."
+    ],
+    "extension": [
+      "Baue eine 'wenn … dann … sonst'-Entscheidung.",
+      "Kombiniere Bedingung und Schleife."
+    ],
+    "keywords": [
+      "Bedingung",
+      "wenn-dann",
+      "Verzweigung",
+      "reagieren"
+    ],
+    "id": "ITG-61",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-61_Bedingungen_wenn_dann.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Bedingungen%3A+wenn+%E2%80%A6+dann+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 62,
+    "date": "Do, 13.05.2027",
+    "ab": 62,
+    "title": "Variablen: Punkte zählen",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich nutze eine Variable, um Werte zu speichern und zu verändern.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-62; Scratch",
+    "know": "Eine Variable ist ein benannter Speicher für einen Wert (z. B. 'Punkte'). Man kann sie setzen, erhöhen und anzeigen.",
+    "basis": [
+      "Erstelle eine Variable 'Punkte' und setze sie auf 0.",
+      "Erhöhe die Punkte bei einem Ereignis um 1.",
+      "Zeige die Punkte auf der Bühne an."
+    ],
+    "extension": [
+      "Setze die Punkte beim Neustart zurück.",
+      "Erkläre, wofür Variablen in Spielen nützlich sind."
+    ],
+    "keywords": [
+      "Variable",
+      "Wert",
+      "erhöhen",
+      "zurücksetzen"
+    ],
+    "id": "ITG-62",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-62_Variablen_Punkte_zaehlen.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Variablen%3A+Punkte+z%C3%A4hlen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 63,
+    "date": "Do, 20.05.2027",
+    "ab": 63,
+    "title": "Mini-Spiel planen (Struktogramm)",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich plane ein kleines Spiel, bevor ich es programmiere.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-63; Papier/Planungsvorlage",
+    "know": "Vor dem Programmieren plant man: Ziel, Figuren, Regeln und Ablauf. Eine Skizze/ein Struktogramm hilft, den Überblick zu behalten.",
+    "basis": [
+      "Beschreibe Ziel und Regeln deines Mini-Spiels.",
+      "Liste die benötigten Figuren und Variablen auf.",
+      "Skizziere den Ablauf in Schritten."
+    ],
+    "extension": [
+      "Zeichne den Ablauf als einfaches Struktogramm/Flussdiagramm.",
+      "Überlege, wo du Schleife und Bedingung brauchst."
+    ],
+    "keywords": [
+      "planen",
+      "Regel",
+      "Struktogramm",
+      "Ablauf"
+    ],
+    "id": "ITG-63",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-63_Mini_Spiel_planen_Struktogramm.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Mini-Spiel+planen+%28Struktogramm%29+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 64,
+    "date": "Di, 25.05.2027",
+    "ab": 64,
+    "title": "Mini-Spiel programmieren",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich setze mein geplantes Spiel mit Sequenz, Schleife, Bedingung und Variable um.",
+    "competencies": "Produzieren, Problemlösen, Modellieren",
+    "material": "AB-64; Scratch",
+    "know": "Jetzt baust du dein Spiel: Steuerung, Punktezählung und Reaktionen. Teste zwischendurch und verbessere Schritt für Schritt.",
+    "basis": [
+      "Programmiere die Steuerung deiner Hauptfigur.",
+      "Baue die Punktezählung mit einer Variable ein.",
+      "Teste dein Spiel und notiere einen Fehler."
+    ],
+    "extension": [
+      "Ergänze eine Gewinn- oder Verlierbedingung.",
+      "Verbessere einen gefundenen Fehler (Debugging)."
+    ],
+    "keywords": [
+      "Steuerung",
+      "Punkte",
+      "testen",
+      "Debugging"
+    ],
+    "id": "ITG-64",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-64_Mini_Spiel_programmieren.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Mini-Spiel+programmieren+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 65,
+    "date": "Do, 27.05.2027",
+    "ab": 65,
+    "title": "Spiele vorstellen & Code erklären",
+    "module": "M9 · Algorithmen & Programmieren (Scratch)",
+    "goal": "Ich stelle mein Programm vor und erkläre meinen Code verständlich.",
+    "competencies": "Präsentieren, Kommunizieren, Reflektieren",
+    "material": "AB-65; Scratch, Feedbackbogen",
+    "know": "Programme erklärt man am besten am Ablauf: Was passiert wann und warum? Feedback hilft, das Programm weiter zu verbessern.",
+    "basis": [
+      "Zeige dein Spiel und erkläre die Steuerung.",
+      "Erkläre eine Stelle mit Schleife oder Bedingung.",
+      "Gib einer anderen Gruppe konkretes Feedback."
+    ],
+    "extension": [
+      "Beschreibe, was du als Nächstes verbessern würdest.",
+      "Erkläre einen Begriff (Variable/Schleife) für Anfänger."
+    ],
+    "keywords": [
+      "vorstellen",
+      "Code erklären",
+      "Ablauf",
+      "Feedback"
+    ],
+    "id": "ITG-65",
+    "moduleNo": 9,
+    "moduleTitle": "Algorithmen & Scratch",
+    "icon": "🧩",
+    "worksheet": "assets/arbeitsblaetter/AB-65_Spiele_vorstellen_Code_erklaeren.pdf",
+    "external": {
+      "url": "https://scratch.mit.edu/help/starter_projects/",
+      "label": "Scratch – Starter Projects"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Spiele+vorstellen+%26+Code+erkl%C3%A4ren+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 66,
+    "date": "Di, 01.06.2027",
+    "ab": 66,
+    "title": "micro:bit kennenlernen",
+    "module": "M10 · Physical Computing (micro:bit)",
+    "goal": "Ich beschreibe die Bauteile des micro:bit und übertrage ein erstes Programm.",
+    "competencies": "Modellieren, Produzieren",
+    "material": "AB-66; micro:bit, Editor",
+    "know": "Der micro:bit ist ein kleiner Computer mit LED-Anzeige, Knöpfen und Sensoren. Programme schreibt man am Rechner und überträgt sie auf das Gerät.",
+    "basis": [
+      "Benenne 4 Bauteile des micro:bit in der Abbildung.",
+      "Erstelle ein Programm, das ein Herz anzeigt.",
+      "Übertrage es und teste es am Gerät."
+    ],
+    "extension": [
+      "Lasse einen Text über die LEDs laufen.",
+      "Erkläre, was ein Sensor ist."
+    ],
+    "keywords": [
+      "micro:bit",
+      "LED-Anzeige",
+      "Sensor",
+      "übertragen"
+    ],
+    "id": "ITG-66",
+    "moduleNo": 10,
+    "moduleTitle": "Physical Computing",
+    "icon": "🤖",
+    "worksheet": "assets/arbeitsblaetter/AB-66_micro_bit_kennenlernen.pdf",
+    "external": {
+      "url": "https://makecode.microbit.org/",
+      "label": "MakeCode micro:bit – Einstieg & Simulator"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=micro%3Abit+kennenlernen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 67,
+    "date": "Do, 03.06.2027",
+    "ab": 67,
+    "title": "Knöpfe & Eingaben",
+    "module": "M10 · Physical Computing (micro:bit)",
+    "goal": "Ich reagiere im Programm auf Knopfdruck (Eingabe -> Ausgabe).",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-67; micro:bit, Editor",
+    "know": "Der micro:bit hat Knöpfe A und B als Eingaben. Auf einen Knopfdruck kann er reagieren, z. B. ein Symbol zeigen (Ausgabe).",
+    "basis": [
+      "Zeige bei Knopf A ein Symbol, bei Knopf B ein anderes.",
+      "Teste beide Knöpfe am Gerät.",
+      "Ordne Ein-/Ausgabe im Beispiel zu."
+    ],
+    "extension": [
+      "Reagiere auf 'A+B gleichzeitig' mit einer dritten Aktion.",
+      "Erkläre das EVA-Prinzip am micro:bit."
+    ],
+    "keywords": [
+      "Eingabe",
+      "Knopf A/B",
+      "Ausgabe",
+      "reagieren"
+    ],
+    "id": "ITG-67",
+    "moduleNo": 10,
+    "moduleTitle": "Physical Computing",
+    "icon": "🤖",
+    "worksheet": "assets/arbeitsblaetter/AB-67_Knoepfe_Eingaben.pdf",
+    "external": {
+      "url": "https://makecode.microbit.org/",
+      "label": "MakeCode micro:bit – Tutorials & Simulator"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Kn%C3%B6pfe+%26+Eingaben+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 68,
+    "date": "Di, 08.06.2027",
+    "ab": 68,
+    "title": "Sensoren nutzen (Schütteln, Licht)",
+    "module": "M10 · Physical Computing (micro:bit)",
+    "goal": "Ich nutze einen Sensor, um auf die Umwelt zu reagieren.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-68; micro:bit, Editor",
+    "know": "Sensoren messen die Umwelt, z. B. Bewegung (Schütteln) oder Licht. Programme können darauf reagieren.",
+    "basis": [
+      "Programmiere einen Würfel: beim Schütteln erscheint 1–6.",
+      "Teste den Würfel mehrfach.",
+      "Beschreibe, welcher Sensor genutzt wird."
+    ],
+    "extension": [
+      "Nutze den Lichtsensor für eine Reaktion.",
+      "Erkläre, wie eine Zufallszahl entsteht."
+    ],
+    "keywords": [
+      "Sensor",
+      "schütteln",
+      "Zufallszahl",
+      "messen"
+    ],
+    "id": "ITG-68",
+    "moduleNo": 10,
+    "moduleTitle": "Physical Computing",
+    "icon": "🤖",
+    "worksheet": "assets/arbeitsblaetter/AB-68_Sensoren_nutzen_Schuetteln_Licht.pdf",
+    "external": {
+      "url": "https://makecode.microbit.org/",
+      "label": "MakeCode micro:bit – Tutorials & Simulator"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Sensoren+nutzen+%28Sch%C3%BCtteln%2C+Licht%29+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 69,
+    "date": "Do, 10.06.2027",
+    "ab": 69,
+    "title": "Projekt planen: Schrittzähler o. Ä.",
+    "module": "M10 · Physical Computing (micro:bit)",
+    "goal": "Ich plane ein kleines micro:bit-Projekt mit Eingabe, Verarbeitung, Ausgabe.",
+    "competencies": "Modellieren, Problemlösen",
+    "material": "AB-69; Planungsvorlage",
+    "know": "Ein gutes Projekt hat klare Eingabe (Sensor/Knopf), Verarbeitung (z. B. zählen) und Ausgabe (LED). Du planst dein eigenes.",
+    "basis": [
+      "Wähle eine Projektidee (z. B. Schrittzähler, Thermometer-Anzeige).",
+      "Bestimme Eingabe, Verarbeitung, Ausgabe.",
+      "Skizziere den Ablauf in Schritten."
+    ],
+    "extension": [
+      "Überlege, welche Variable du brauchst.",
+      "Plane, wie du das Projekt testen willst."
+    ],
+    "keywords": [
+      "Projekt",
+      "Eingabe/Verarbeitung/Ausgabe",
+      "Variable",
+      "planen"
+    ],
+    "id": "ITG-69",
+    "moduleNo": 10,
+    "moduleTitle": "Physical Computing",
+    "icon": "🤖",
+    "worksheet": "assets/arbeitsblaetter/AB-69_Projekt_planen_Schrittzaehler_o_Ae.pdf",
+    "external": {
+      "url": "https://makecode.microbit.org/",
+      "label": "MakeCode micro:bit – Tutorials & Simulator"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Projekt+planen%3A+Schrittz%C3%A4hler+o.+%C3%84.+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 70,
+    "date": "Di, 15.06.2027",
+    "ab": 70,
+    "title": "Projekt umsetzen & zeigen",
+    "module": "M10 · Physical Computing (micro:bit)",
+    "goal": "Ich setze mein micro:bit-Projekt um, teste es und stelle es vor.",
+    "competencies": "Produzieren, Präsentieren, Reflektieren",
+    "material": "AB-70; micro:bit, Editor",
+    "know": "Du programmierst dein geplantes Projekt, testest es am Gerät und verbesserst es. Danach stellst du es kurz vor.",
+    "basis": [
+      "Programmiere dein Projekt nach deinem Plan.",
+      "Teste es und behebe einen Fehler.",
+      "Stelle das Ergebnis in 1 Minute vor."
+    ],
+    "extension": [
+      "Ergänze eine sinnvolle Zusatzfunktion.",
+      "Beschreibe, was gut lief und was schwierig war."
+    ],
+    "keywords": [
+      "umsetzen",
+      "testen",
+      "verbessern",
+      "vorstellen"
+    ],
+    "id": "ITG-70",
+    "moduleNo": 10,
+    "moduleTitle": "Physical Computing",
+    "icon": "🤖",
+    "worksheet": "assets/arbeitsblaetter/AB-70_Projekt_umsetzen_zeigen.pdf",
+    "external": {
+      "url": "https://makecode.microbit.org/",
+      "label": "MakeCode micro:bit – Tutorials & Simulator"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Projekt+umsetzen+%26+zeigen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 71,
+    "date": "Do, 17.06.2027",
+    "ab": 71,
+    "title": "Abschlussprojekt wählen & planen",
+    "module": "M11 · Medienprojekt & Portfolio",
+    "goal": "Ich wähle ein Abschlussprojekt und erstelle einen Projektplan.",
+    "competencies": "Produzieren, Informieren, Reflektieren",
+    "material": "AB-71; Planungsvorlage",
+    "know": "Zum Abschluss zeigst du dein Können in einem freien Medienprojekt (z. B. Flyer, Präsentation, Scratch-Spiel, micro:bit). Ein Plan mit Ziel, Schritten und Zeit hilft.",
+    "basis": [
+      "Wähle dein Projekt und formuliere das Ziel.",
+      "Zerlege es in 4–5 Arbeitsschritte.",
+      "Notiere, welche Programme du brauchst."
+    ],
+    "extension": [
+      "Plane die Reihenfolge und schätze die Zeit je Schritt.",
+      "Nenne die Bewertungskriterien, die für dich zählen."
+    ],
+    "keywords": [
+      "Abschlussprojekt",
+      "Projektplan",
+      "Arbeitsschritt",
+      "Ziel"
+    ],
+    "id": "ITG-71",
+    "moduleNo": 11,
+    "moduleTitle": "Medienprojekt & Portfolio",
+    "icon": "🚀",
+    "worksheet": "assets/arbeitsblaetter/AB-71_Abschlussprojekt_waehlen_planen.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/paedagogen/medien-materialien",
+      "label": "klicksafe – Projekt- und Medienmaterialien"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Abschlussprojekt+w%C3%A4hlen+%26+planen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 72,
+    "date": "Di, 22.06.2027",
+    "ab": 72,
+    "title": "Abschlussprojekt umsetzen (I)",
+    "module": "M11 · Medienprojekt & Portfolio",
+    "goal": "Ich arbeite selbstständig an meinem Projekt und dokumentiere Fortschritt.",
+    "competencies": "Produzieren, Reflektieren",
+    "material": "AB-72; je nach Projekt",
+    "know": "Heute setzt du deinen Plan um. Arbeite in Schritten, speichere regelmäßig und notiere kurz deinen Fortschritt und offene Fragen.",
+    "basis": [
+      "Setze die ersten 2–3 Arbeitsschritte um.",
+      "Speichere Zwischenstände sinnvoll.",
+      "Notiere, was du geschafft hast und was noch fehlt."
+    ],
+    "extension": [
+      "Hole gezielt Hilfe zu einem konkreten Problem.",
+      "Passe deinen Plan bei Bedarf begründet an."
+    ],
+    "keywords": [
+      "umsetzen",
+      "Zwischenstand",
+      "dokumentieren",
+      "Fortschritt"
+    ],
+    "id": "ITG-72",
+    "moduleNo": 11,
+    "moduleTitle": "Medienprojekt & Portfolio",
+    "icon": "🚀",
+    "worksheet": "assets/arbeitsblaetter/AB-72_Abschlussprojekt_umsetzen_I.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/paedagogen/medien-materialien",
+      "label": "klicksafe – Projekt- und Medienmaterialien"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Abschlussprojekt+umsetzen+%28I%29+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 73,
+    "date": "Do, 24.06.2027",
+    "ab": 73,
+    "title": "Abschlussprojekt umsetzen (II) & Feinschliff",
+    "module": "M11 · Medienprojekt & Portfolio",
+    "goal": "Ich stelle mein Projekt fertig und prüfe es an den Kriterien.",
+    "competencies": "Produzieren, Reflektieren, Präsentieren",
+    "material": "AB-73; je nach Projekt, Kriterienliste",
+    "know": "Jetzt bringst du dein Projekt zu Ende: fehlende Teile ergänzen, prüfen, verbessern (Rechtschreibung, Quellen, Gestaltung) und als PDF/Datei sichern.",
+    "basis": [
+      "Stelle die restlichen Arbeitsschritte fertig.",
+      "Prüfe dein Produkt mit der Kriterienliste.",
+      "Sichere die Endfassung (Export als PDF/Datei)."
+    ],
+    "extension": [
+      "Verbessere zwei Punkte aus deiner Selbstprüfung.",
+      "Bereite eine kurze Vorstellung vor."
+    ],
+    "keywords": [
+      "Feinschliff",
+      "prüfen",
+      "Kriterien",
+      "Endfassung"
+    ],
+    "id": "ITG-73",
+    "moduleNo": 11,
+    "moduleTitle": "Medienprojekt & Portfolio",
+    "icon": "🚀",
+    "worksheet": "assets/arbeitsblaetter/AB-73_Abschlussprojekt_umsetzen_II_Feinschliff.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/paedagogen/medien-materialien",
+      "label": "klicksafe – Projekt- und Medienmaterialien"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Abschlussprojekt+umsetzen+%28II%29+%26+Feinschliff+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  },
+  {
+    "n": 74,
+    "date": "Di, 29.06.2027",
+    "ab": 74,
+    "title": "Projektpräsentation & ITG-Portfolio abschließen",
+    "module": "M11 · Medienprojekt & Portfolio",
+    "goal": "Ich präsentiere mein Projekt und schließe mein ITG-Skript-Portfolio ab.",
+    "competencies": "Präsentieren, Kommunizieren, Reflektieren",
+    "material": "AB-74; Projekt, vollständiges Portfolio",
+    "know": "Zum Schluss zeigst du dein Projekt und vervollständigst dein Portfolio: alle Arbeitsblätter ergeben zusammen dein persönliches ITG-Skript. Du blickst auf dein Jahr zurück.",
+    "basis": [
+      "Präsentiere dein Projekt (2–3 Minuten).",
+      "Ordne alle Arbeitsblätter vollständig ins Portfolio.",
+      "Notiere drei Dinge, die du im WPU ITG gelernt hast."
+    ],
+    "extension": [
+      "Gib einer anderen Gruppe konkretes Feedback.",
+      "Formuliere ein Lernziel für die Zukunft."
+    ],
+    "keywords": [
+      "Portfolio",
+      "Skript",
+      "Rückblick",
+      "Lernziel"
+    ],
+    "id": "ITG-74",
+    "moduleNo": 11,
+    "moduleTitle": "Medienprojekt & Portfolio",
+    "icon": "🚀",
+    "worksheet": "assets/arbeitsblaetter/AB-74_Projektpraesentation_ITG_Portfolio_absch.pdf",
+    "external": {
+      "url": "https://www.klicksafe.de/paedagogen/medien-materialien",
+      "label": "klicksafe – Projekt- und Medienmaterialien"
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Projektpr%C3%A4sentation+%26+ITG-Portfolio+abschlie%C3%9Fen+einfach+erkl%C3%A4rt+deutsch",
+      "label": "Passende Lernvideos zu dieser Einheit"
+    }
+  }
+]
