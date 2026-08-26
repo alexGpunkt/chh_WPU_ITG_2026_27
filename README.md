@@ -77,4 +77,3 @@ Externe Ressourcen werden nur verlinkt, nicht eingebettet. Verwendet werden u. a
 ## Validierung
 
 `node tools/validate-project.mjs` prüft Anzahl/IDs der Einheiten, Arbeitsblätter und Pflichtfelder.
-
