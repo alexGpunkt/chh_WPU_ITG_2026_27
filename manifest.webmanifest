@@ -1,0 +1,9 @@
+{
+  "name": "WPU ITG · Campus Hannah Höch",
+  "short_name": "WPU ITG",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7f8",
+  "theme_color": "#164e63",
+  "icons": []
+}

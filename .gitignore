@@ -1,0 +1,11 @@
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Lokale Supabase- und Testdaten
+.env
+.env.*
+!.env.example
+supabase/.temp/
+node_modules/
