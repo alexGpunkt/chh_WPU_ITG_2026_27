@@ -5,8 +5,8 @@ Interaktive GitHub-Pages-Lernplattform für den WPU ITG am Campus Hannah Höch, 
 ## Umfang
 
 - **74 Einheiten / 11 Module**, exakt entlang der bereitgestellten Jahresplanung
-- pro Einheit: Einstieg + Wiederholung, Erarbeitung, Merkkasten, Musteraufgaben, externe Übung, Lernvideo/Videoangebot, **randomisierter Aufgabengenerator mit direktem Feedback**, Original-PDF-Arbeitsblatt, druckbares Generator-Arbeitsblatt, Vertiefung und **5-Fragen-Abschlusstest**
-- Basis-/Erweiterungsmodus
+- pro Einheit: Einstieg und Rückblick, konkrete Basisaufgaben, Merkwissen, bei geeigneten Themen ein externes Lernangebot, zwei Übungsfragen mit Feedback, Erweiterungsaufgaben und ein Abschlusstest mit drei anderen Fragen. Arbeitsblätter sind als PDF und als druckbare Webansicht verfügbar.
+- Basis- und Erweiterungsaufgaben
 - responsiv und als statische GitHub-Pages-App lauffähig
 - PWA/Service-Worker für Kernseiten und Daten
 - Schüler-Anmeldung und Lehrerdashboard nach dem Muster der Mathe-/Chemie-Projekte
@@ -72,8 +72,8 @@ Die 74-Stunden-Jahresplanung und das schulinterne WPU-Curriculum sind nicht voll
 
 ## Externe Angebote
 
-Externe Ressourcen werden nur verlinkt, nicht eingebettet. Verwendet werden u. a. Internet-ABC, klicksafe, Microsoft Support/Training, Scratch, MakeCode micro:bit, TypingClub sowie ausgewählte Lernvideos. Links sollten vor einem neuen Schuljahr kurz geprüft werden.
+Externe Ressourcen werden nur verlinkt, nicht eingebettet. Die Auswahl enthält thematisch passende Angebote, darunter Internet-ABC, Microsoft Support, Scratch, MakeCode und TypingClub. Nicht für jede Einheit ist ein externes Angebot notwendig. Links können sich ändern; Zugänglichkeit, Datenschutz und Freigaben im Schulnetz sollten vor dem Einsatz überprüft werden.
 
 ## Validierung
 
-`node tools/validate-project.mjs` prüft Anzahl/IDs der Einheiten, Arbeitsblätter und Pflichtfelder.
+`node tools/validate-project.mjs` prüft Einheiten, Arbeitsblätter, Fragen und die Struktur externer Links.
